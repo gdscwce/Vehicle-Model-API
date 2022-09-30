@@ -140,7 +140,16 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
-   }
+   },
+   {
+        "id":14,
+        "companyName": "Rolls Royce",
+        "category": "Car",
+        "modelName":"Ghost",
+        "mileage": "6.33 kmpl",
+        "approx.Cost": "6.95-7.95 crore Rs",
+        "website":"https://www.rolls-roycemotorcars.com/en_US/showroom/ghost.html"
+    }
     
 
 ]
