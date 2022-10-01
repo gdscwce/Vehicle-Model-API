@@ -1045,4 +1045,15 @@
         "approx.Cost": "9.99-17.99 lakhs",
         "website": "https://www.cardekho.com/hyundai/verna"
     }
+    {
+        "id": 64,
+        "companyName": "Tata",
+        "category": "Car",
+        "modelName": "Tiago",
+        "mileage": "20.9 kmpl",
+        "approx.Cost": "5.40-7.82 lakhs",
+        "website": "https://www.cardekho.com/tata/tata-tiago"
+    }
+    
+    
 ]
