@@ -1111,6 +1111,14 @@
         "approx.Cost": "32.39-49.57 lakhs",
         "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
     }
-    
+    {
+        "id":65,
+        "companyName": "Koenigsegg",
+        "category": "Sports Car",
+        "modelName":"Jesko",
+        "engineDisplacement": "5000cc",
+        "approx.Cost": "66.06 Cr - 72.25 Cr",
+        "website":"https://www.bigboytoyz.com/newcars/koenigsegg/jesko"
+    }
 ]
 
