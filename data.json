@@ -1110,7 +1110,16 @@
         "mileage": "10 kmpl",
         "approx.Cost": "32.39-49.57 lakhs",
         "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
-    }
+    },
+ {
+          "id":390,
+          "companyName": "Royal Enfield",
+          "category": "Bike",
+          "modelName":"classic 350",
+          "mileage": "45kmpl",
+          "approx.Cost": "2.5-3 lakh Rs",
+          "website":"https://www.google.com/search?q=royal+enfield+classic+350+features+2022&rlz=1C1GCEA_enIN989IN989&sxsrf=ALiCzsZ5Q-rAD9o8d8s1LEXVF6kqnvtJSw%3A1665305017087&ei=uYlCY_7tBMu64-EPm5O6yAI&oq=royal+enfield+classic+350+featur&gs_lcp=Cgdnd3Mtd2l6EAMYATIICAAQgAQQywEyCAgAEIAEEMsBMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjoKCAAQRxDWBBCwAzoHCAAQsAMQQzoLCAAQgAQQyQMQywE6CAgAEB4QFhAKSgQIQRgASgQIRhgAUOUCWNUcYPguaAFwAXgAgAHRAogB7g6SAQcwLjEuNi4xmAEAoAEByAEKwAEB&sclient=gws-wiz"
+      },
     
 ]
 
