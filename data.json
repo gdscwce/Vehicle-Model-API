@@ -1110,7 +1110,16 @@
         "mileage": "10 kmpl",
         "approx.Cost": "32.39-49.57 lakhs",
         "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
-    }
+    },
+    {
+        "id":65,
+        "companyName": "Kia",
+        "category": "Car",
+        "modelName":"Seltos HTK Plus",
+        "mileage": "25 kmpl",
+        "approx.Cost": "14lakhs - 22 lakhs lakh Rs",
+        "website":"https://www.cardekho.com/kia/seltos"
+    },
     
 ]
 
