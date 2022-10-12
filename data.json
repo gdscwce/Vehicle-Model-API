@@ -1113,4 +1113,13 @@
     }
     
 ]
-
+{
+        "id": 65,
+        "companyName": "Tata",
+        "category": "Car",
+        "modelName": "Harrier",
+        "mileage": "14.6 kmpl",
+        "approx.Cost": "14.70-22.20 lakhs",
+        "website": "https://cars.tatamotors.com/suv/harrier"
+    }
+    ]
