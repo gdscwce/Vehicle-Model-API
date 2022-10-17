@@ -1110,6 +1110,15 @@
         "mileage": "10 kmpl",
         "approx.Cost": "32.39-49.57 lakhs",
         "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
+    },
+{
+        "id":3,
+        "companyName": "Jagur",
+        "category": "Car",
+        "modelName":"Porsche F-TYPE",
+        "mileage": "9-11kmpl",
+        "approx.Cost": "1 crore",
+        "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
     }
     
 ]
