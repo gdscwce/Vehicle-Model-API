@@ -1101,7 +1101,7 @@
         "website":"https://olaelectric.com/"
     }
 
-
+,
 {
         "id": 64,
         "companyName": "Toyota",
@@ -1110,6 +1110,15 @@
         "mileage": "10 kmpl",
         "approx.Cost": "32.39-49.57 lakhs",
         "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
+    },
+     {
+        "id":363,
+        "companyName": "OLA",
+        "category": "Bike",
+        "modelName":"Ola S1",
+        "mileage": "181 Km/Charge",
+        "approx.Cost": " 99,999 and goes upto Rs. 1.39 Lakh",
+        "website":"https://olaelectric.com/"
     }
     
 ]
