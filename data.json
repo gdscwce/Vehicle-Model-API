@@ -1110,7 +1110,16 @@
         "mileage": "10 kmpl",
         "approx.Cost": "32.39-49.57 lakhs",
         "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
-    }
+    },
+{
+        "id":65,
+        "companyName": "Tata",
+        "category": "car",
+        "modelName":"i20",
+        "mileage": "16.35 kmpl",
+        "approx.Cost": "14.70-22.20 lakh Rs",
+        "website":"https://www.cardekho.com/tata/harrier"
+        },
     
 ]
 
