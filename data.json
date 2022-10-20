@@ -1122,3 +1122,13 @@
     }
 ]
 
+},
+{
+        "id": 640,
+        "companyName": "Mercedes-Benz",
+        "category": "Car",
+        "modelName": "Mercedes-Benz EQS",
+        "mileage": "526 km/full charge.",
+        "approx.Cost": "Rs.1.55 Cr-Rs. 2.45 Cr.",
+        "website": "https://www.cardekho.com/mercedes-benz/eqs"
+    }
