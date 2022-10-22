@@ -1164,5 +1164,14 @@
       "mileage": "526 km/full charge.",
       "approx.Cost": "Rs.1.55 Cr-Rs. 2.45 Cr.",
       "website": "https://www.cardekho.com/mercedes-benz/eqs"
+  },
+  {
+      "id": 641,
+      "companyName": "Hyundai",
+      "category": "Car",
+      "modelName": "Hyundai Santro",
+      "mileage": "20 km/L to 30 km/L",
+      "approx.Cost": "4.89 - 6.44 lakh Rs",
+      "website": "https://www.carwale.com/hyundai-cars/santro/"
   }
 ]
