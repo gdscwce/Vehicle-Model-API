@@ -1,138 +1,91 @@
 [
-    {
-        "id":1,
-        "companyName": "BMW",
-        "category": "Bike",
-        "modelName":"G 310R",
-        "mileage": "32kmpl",
-        "approx.Cost": "2.85-2.99 lakh Rs",
-        "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
-    },
-    {
-        "id":2,
-        "companyName": "Mercedes-Benz",
-        "category": "Car",
-        "modelName":"G 350d 4Matic",
-        "mileage": "9kmpl",
-        "approx.Cost": "1.31 Cr Rs.",
-        "website":"https://www.carwale.com/mercedes-benz-cars/g-class/"
-    },
-    {
-        "id":3,
-        "companyName": "Jagur",
-        "category": "Car",
-        "modelName":"Porsche F-TYPE",
-        "mileage": "9-11kmpl",
-        "approx.Cost": "1 crore",
-        "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
-    },
-    {
-        "id":4,
-        "companyName": "Jagur",
-        "category": "Car",
-        "modelName":"Porsche XF",
-        "mileage": "9-11kmpl",
-        "approx.Cost": "76-80 lakhs",
+  {
+      "id":1,
+      "companyName": "BMW",
+      "category": "Bike",
+      "modelName":"G 310R",
+      "mileage": "32kmpl",
+      "approx.Cost": "2.85-2.99 lakh Rs",
+      "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+  },
+  {
+      "id":2,
+      "companyName": "Mercedes-Benz",
+      "category": "Car",
+      "modelName":"G 350d 4Matic",
+      "mileage": "9kmpl",
+      "approx.Cost": "1.31 Cr Rs.",
+      "website":"https://www.carwale.com/mercedes-benz-cars/g-class/"
+  },
+  {
+      "id":3,
+      "companyName": "Jagur",
+      "category": "Car",
+      "modelName":"Porsche F-TYPE",
+      "mileage": "9-11kmpl",
+      "approx.Cost": "1 crore",
+      "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
+  },
+  {
+      "id":4,
+      "companyName": "Jagur",
+      "category": "Car",
+      "modelName":"Porsche XF",
+      "mileage": "9-11kmpl",
+      "approx.Cost": "76-80 lakhs",
+
+      "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
+  },
   
-        "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
-    },
-    
-    {
-        "id":5,
-        "companyName": "Porsche",
-        "category": "Car",
-        "modelName":"Porsche 911",
-        "mileage": "9-11kmpl",
-        "approx.Cost": "1.72 lakh Rs",
-        "website":"https://www.carwale.com/porsche-cars/911/"
-    },
-    {
-        "id":6,
-        "companyName": "Maruti Suzuki",
-        "category": "car",
-        "modelName":"Swift dzire",
-        "mileage": "10kmpl",
-        "approx.Cost": "10 lakh rs",
-        "website":"https://www.marutisuzuki.com/dzire"
-    },
-    {
-        "id":7,
-        "companyName": "swift",
-        "category": "Car",
-        "modelName":"desir"         ,
-        "mileage": "9-11kmpl",
-        "approx.Cost": "10 lakhs",
-        "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
-    },
-    {
-        "id":8,
-        "companyName": "Volvo",
-        "category": "Car",
-        "modelName":"XC90"         ,
-        "mileage": "9-11kmpl",
-        "approx.Cost": "30 lakhs",
-        "website":"https://www.cardekho.com/volvo/xc-90"
-    },
+  {
+      "id":5,
+      "companyName": "Porsche",
+      "category": "Car",
+      "modelName":"Porsche 911",
+      "mileage": "9-11kmpl",
+      "approx.Cost": "1.72 lakh Rs",
+      "website":"https://www.carwale.com/porsche-cars/911/"
+  },
+  {
+      "id":6,
+      "companyName": "Maruti Suzuki",
+      "category": "car",
+      "modelName":"Swift dzire",
+      "mileage": "10kmpl",
+      "approx.Cost": "10 lakh rs",
+      "website":"https://www.marutisuzuki.com/dzire"
+  },
+  {
+      "id":7,
+      "companyName": "swift",
+      "category": "Car",
+      "modelName":"desir"         ,
+      "mileage": "9-11kmpl",
+      "approx.Cost": "10 lakhs",
+      "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
+  },
+  {
+      "id":8,
+      "companyName": "Volvo",
+      "category": "Car",
+      "modelName":"XC90"         ,
+      "mileage": "9-11kmpl",
+      "approx.Cost": "30 lakhs",
+      "website":"https://www.cardekho.com/volvo/xc-90"
+  },
+
   
-    
-    {
-        "id":9,
-        "companyName": "Maruti 800",
-        "category": "Car",
-        "modelName":"800",
-        "mileage": "4-5 kmpl",
-        "approx.Cost": "2 lakhs",
-        "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_800"
-    },
-      {
-          "id":13,
-          "companyName": "Audi",
-          "category": "Sports Car",
-          "modelName":"R8 (Type 42)",
-          "mileage": " 5.71 kmpl",
-          "approx.Cost": "2.30 Crore",
-          "website":"https://www.audi.in/in/web/en/customer-area/service-warranty/audi-campaign/campaign-r8.html"
-      },
-    {
-        "id":10,
-        "companyName": "Suzuki",
-        "category": "Car",
-        "modelName":"Wagon R",
-        "mileage": "25-30 kmpl",
-        "approx.Cost": "5-7 lakhs",
-        "website":"https://www.cardekho.com/maruti/wagon-r"
-    },
-       
-    {
-        "id":11,
-        "companyName": "Volvo",
-        "category": "Car",
-        "modelName":"XC40"         ,
-        "mileage": "9-11kmpl",
-        "approx.Cost": "45 lakhs",
-        "website":"https://www.cardekho.com/volvo/xc40"
-    },
-      {
-        "id":12,
-        "companyName": "Mahindra",
-        "category": " SUV Car",
-        "modelName":"AX 4-STR"         ,
-        "mileage": "9-15kmpl",
-        "approx.Cost": "15 lakhs",
-        "website":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fimgd.aeplcdn.com%2F0x0%2Fn%2Fcw%2Fec%2F40087%2Fthar-exterior-right-front-three-quarter-11.jpeg&imgrefurl=https%3A%2F%2Fwww.carwale.com%2Fmahindra-cars%2Fthar%2F&tbnid=RZz5Fr5nKckqJM&vet=12ahUKEwicof252Lz6AhVM6XMBHfVJC70QMygBegUIARDFAQ..i&docid=AnOOqA3Wy1lLVM&w=1920&h=1080&q=thar%20mahindra%20link&ved=2ahUKEwicof252Lz6AhVM6XMBHfVJC70QMygBegUIARDFAQ"
-  
-    },
+  {
+      "id":9,
+      "companyName": "Maruti 800",
+      "category": "Car",
+      "modelName":"800",
+      "mileage": "4-5 kmpl",
+      "approx.Cost": "2 lakhs",
+      "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_800"
+  },
     {
         "id":13,
-        "companyName": "Mahindra",
-        "category": "car",
-        "modelName":"XUV700 ",
-        "mileage": "27kmpl",
-        "approx.Cost": "13.45 lack onwards",
-        "website":"https://www.carwale.com/mahindra-cars/xuv700/"
-    },
-        {
-        "id":14,
         "companyName": "Audi",
         "category": "Sports Car",
         "modelName":"R8 (Type 42)",
@@ -140,61 +93,87 @@
         "approx.Cost": "2.30 Crore",
         "website":"https://www.audi.in/in/web/en/customer-area/service-warranty/audi-campaign/campaign-r8.html"
     },
+  {
+      "id":10,
+      "companyName": "Suzuki",
+      "category": "Car",
+      "modelName":"Wagon R",
+      "mileage": "25-30 kmpl",
+      "approx.Cost": "5-7 lakhs",
+      "website":"https://www.cardekho.com/maruti/wagon-r"
+  },
+     
+  {
+      "id":11,
+      "companyName": "Volvo",
+      "category": "Car",
+      "modelName":"XC40"         ,
+      "mileage": "9-11kmpl",
+      "approx.Cost": "45 lakhs",
+      "website":"https://www.cardekho.com/volvo/xc40"
+  },
     {
-        "id":13,
-        "companyName": "Mahindra",
-        "category": "car",
-        "modelName":"XUV700 ",
-        "mileage": "27kmpl",
-        "approx.Cost": "13.45 lack onwards",
-        "website":"https://www.carwale.com/mahindra-cars/xuv700/"
-    },
+      "id":12,
+      "companyName": "Mahindra",
+      "category": " SUV Car",
+      "modelName":"AX 4-STR"         ,
+      "mileage": "9-15kmpl",
+      "approx.Cost": "15 lakhs",
+      "website":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fimgd.aeplcdn.com%2F0x0%2Fn%2Fcw%2Fec%2F40087%2Fthar-exterior-right-front-three-quarter-11.jpeg&imgrefurl=https%3A%2F%2Fwww.carwale.com%2Fmahindra-cars%2Fthar%2F&tbnid=RZz5Fr5nKckqJM&vet=12ahUKEwicof252Lz6AhVM6XMBHfVJC70QMygBegUIARDFAQ..i&docid=AnOOqA3Wy1lLVM&w=1920&h=1080&q=thar%20mahindra%20link&ved=2ahUKEwicof252Lz6AhVM6XMBHfVJC70QMygBegUIARDFAQ"
+
+  },
+  {
+      "id":13,
+      "companyName": "Mahindra",
+      "category": "car",
+      "modelName":"XUV700 ",
+      "mileage": "27kmpl",
+      "approx.Cost": "13.45 lack onwards",
+      "website":"https://www.carwale.com/mahindra-cars/xuv700/"
+  },
+      {
+      "id":14,
+      "companyName": "Audi",
+      "category": "Sports Car",
+      "modelName":"R8 (Type 42)",
+      "mileage": " 5.71 kmpl",
+      "approx.Cost": "2.30 Crore",
+      "website":"https://www.audi.in/in/web/en/customer-area/service-warranty/audi-campaign/campaign-r8.html"
+  },
+  {
+      "id":13,
+      "companyName": "Mahindra",
+      "category": "car",
+      "modelName":"XUV700 ",
+      "mileage": "27kmpl",
+      "approx.Cost": "13.45 lack onwards",
+      "website":"https://www.carwale.com/mahindra-cars/xuv700/"
+  },
+  
+  {
+      "id":15,
+      "companyName": "BYD",
+      "category": "e-car",
+      "modelName":"e6",
+      "mileage": "71.7 kWh",
+      "approx.Cost": "29.15 Lakh",
+      "website":"https://www.carwale.com/mahindra-cars/xuv700/"
+  },
     
     {
         "id":15,
-        "companyName": "BYD",
-        "category": "e-car",
-        "modelName":"e6",
-        "mileage": "71.7 kWh",
-        "approx.Cost": "29.15 Lakh",
-        "website":"https://www.carwale.com/mahindra-cars/xuv700/"
-    },
-      
-      {
-          "id":15,
-          "companyName": "maruti",
-          "category": "car",
-          "modelName":"800",
-          "mileage": "12kmpl",
-          "approx.Cost": "2.85-2.99 lakh Rs",
-          "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
-  
-      },
-  
-  
-      {
-          "id":16,
-          "companyName": "maruti suzuki",
-          "category": "Car",
-          "modelName":"creta",
-          "mileage": "9-11kmpl",
-          "approx.Cost": "20 lakhs",
-          "website":"https://www.cardekho.com/hyundai/creta"
-      },
-    
-    {
-        "id":16,
         "companyName": "maruti",
         "category": "car",
         "modelName":"800",
         "mileage": "12kmpl",
         "approx.Cost": "2.85-2.99 lakh Rs",
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+
     },
-    
-  
+
+
     {
-        "id":17,
+        "id":16,
         "companyName": "maruti suzuki",
         "category": "Car",
         "modelName":"creta",
@@ -202,8 +181,211 @@
         "approx.Cost": "20 lakhs",
         "website":"https://www.cardekho.com/hyundai/creta"
     },
+  
+  {
+      "id":16,
+      "companyName": "maruti",
+      "category": "car",
+      "modelName":"800",
+      "mileage": "12kmpl",
+      "approx.Cost": "2.85-2.99 lakh Rs",
+      "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+  },
+  
+
+  {
+      "id":17,
+      "companyName": "maruti suzuki",
+      "category": "Car",
+      "modelName":"creta",
+      "mileage": "9-11kmpl",
+      "approx.Cost": "20 lakhs",
+      "website":"https://www.cardekho.com/hyundai/creta"
+  },
+  {
+      "id":18,
+      "companyName": "Shelby",
+      "category": "Car",
+      "modelName":"GT500",
+      "mileage": "12-18 mpg",
+      "approx.Cost": "2 Cr",
+      "website":"https://www.ford.com/cars/mustang/models/shelby-gt-500/"
+ },
+ {
+      "id":19,
+      "companyName": "BMW",
+      "category": "Car",
+      "modelName":"M5",
+      "mileage": "9.12kmpl",
+      "approx.Cost": "1.74 CrRs",
+      "website":"https://www.cardekho.com/bmw/m5"
+ },  
+  {
+     "id":20,
+      "companyName": "Honda",
+      "category": "Car",
+      "modelName":"Amaze",
+      "mileage": "25kmpl",
+      "approx.Cost": "6.63 lakhs",
+      "website":"https://www.cardekho.com/honda/amaze"
+ },
+ {
+     "id":21,
+      "companyName": "toyota",
+      "category": "Car",
+      "modelName":"ss",
+      "mileage": "9.12kmpl",
+      "approx.Cost": "1.1 CrRs",
+      "website":"https://www.cardekho.com/bmw/m5"
+ }, 
+ {
+     "id":22,
+      "companyName": "MERCEDES-BENZ",
+      "category": "car",
+      "modelName":"GLA",
+      "mileage": "13 TO 17 kmpl",
+      "approx.Cost": "48.90 LAKH",
+      "website":"https://www.carandbike.com/mercedes-benz-cars/gla-class"
+ },
+ {
+      
+      "id":23,
+      "companyName": "Toyota",
+      "category": "Car",
+      "modelName":"2023 GR Supra",
+      "mileage": "11 kmpl",
+      "approx.Cost": "36 lakhs",
+      "website":"https://www.toyota.com/grsupra/"
+  },
+  {
+      "id":24,
+      "companyName": "Volkswagen",
+      "category": "Car",
+      "modelName":"Taigun",
+      "mileage": "18 kmpl",
+      "approx.Cost": "20 lakhs",
+      "website":"https://www.volkswagen.co.in/en/models/taigun.html"
+ },
+ {
+      "id":25,
+      "companyName": "Tata",
+      "category": "Car",
+      "modelName":"nano",
+      "mileage": "25.39kmpl",
+      "approx.Cost": "2,05 Lakh",
+      "website":"https://www.carwale.com/tata-cars/nano/"
+ },
+   {
+     "id":26,
+      "companyName": "Tata",
+      "category": "mid suv",
+      "modelName":"nexon",
+      "mileage": "12-16.39kmpl",
+      "approx.Cost": "10 Lakh",
+      "website":"https://www.carwale.com/tata-cars/nexon/"
+ },
+ {
+      "id":27,
+      "companyName": "Kia",
+      "category": "Car",
+      "modelName":"Seltos",
+      "mileage": "20.8 kmpl",
+      "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
+      "website":"https://www.cardekho.com/kia/seltos"
+ },
+     {
+      "id":22,
+      "companyName": "KTM",
+      "category": "BIKE",
+      "modelName":"KTM-RC 200",
+      "mileage": "30-35 kmpl",
+      "approx.Cost": "Rs.2.04Lankh - 2.17 Lakh*",
+      "website":"https://www.bikedekho.com/ktm/rc-200"
+    },
+  {
+      "id":28,
+      "companyName": "Maruti 800",
+      "category": "Car",
+      "modelName":"Maruti 800",
+      "mileage": "20.8 kmpl",
+      "approx.Cost": "Rs.10.49 - 1.65 Lakh*",
+      "website":"https://www.cardekho.com/maruti/800"
+ },
+  {
+      "id":29,
+      "companyName": "Mercedes",
+      "category": "Car",
+      "modelName":"M7",
+      "mileage": "10.8 kmpl",
+      "approx.Cost": "Rs.10.49 - 48.65 Lakh*",
+      "website":"https://www.cardekho.com/mercedes"
+ },
+  {
+      "id":30,
+      "companyName": "Bajaj Discover",
+      "category": "Bike",
+      "modelName":"Seltos",
+      "mileage": "20.8 kmpl",
+      "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
+      "website":"https://www.bikewala.com/Discover"
+ },
+  
+  {
+      "id":31,
+      "companyName": "Maruti Suzuki",
+      "category": "Car",
+      "modelName":"Ertiga",
+      "mileage": "26.11 km/kg",
+      "approx.Cost": "Rs.8.41 - 12.79 Lakh*",
+      "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_Ertiga"
+ },
+   {
+      "id":32,
+      "companyName": "mahindra",
+      "category": "Car",
+      "modelName":"Thar",
+      "mileage": "15.2 kmpl",
+      "approx.Cost": "Rs.13.53 - 16.03 Lakh*",
+      "website":"https://www.carwale.com/mahindra-cars/thar/"
+ },
+ {
+     "id":33,
+      "companyName": "Aston Martin",
+      "category": "Car",
+      "modelName":"Valkyrie",
+      "mileage": "9-12kmpl",
+      "approx.Cost": "3.2 CrRs",
+      "website":"https://www.autocarindia.com/car-news/aston-martin-unveils-limited-edition-valkyrie-spider-421736#:~:text=The%20British%20brand's%20most%20recent,crore%20(ex%2Dshowroom)."
+ },
+ {
+      "id":34,
+      "companyName": "bmw",
+      "category": "Car",
+      "modelName":"A3",
+      "mileage": "9.18kmpl",
+      "approx.Cost": "2.6CrRs",
+      "website":"https://www.cardekho.com/bmw/m5"
+ },
+  {
+      "id":35,
+      "companyName": "Tesla",
+      "category": "Car",
+      "modelName":" phantom",
+      "mileage": "9.8 kmpl",
+      "approx.Cost": "Rs 8.99 - 10.45 crore",
+      "website":"https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom.html"
+ },
+   {
+      "id":27,
+      "companyName": "FERRARI",
+      "category": "Car",
+      "modelName":" Portofino",
+      "mileage": "9.0 kmpl",
+      "approx.Cost": "Rs.3.50 Cr",
+      "website":"https://www.cardekho.com/ferrari/portofino"
+ },
     {
-        "id":18,
+        "id":17,
         "companyName": "Shelby",
         "category": "Car",
         "modelName":"GT500",
@@ -211,26 +393,21 @@
         "approx.Cost": "2 Cr",
         "website":"https://www.ford.com/cars/mustang/models/shelby-gt-500/"
    },
+
+
    {
-        "id":19,
+        "id":18,
         "companyName": "BMW",
         "category": "Car",
         "modelName":"M5",
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
-   },  
-    {
-       "id":20,
-        "companyName": "Honda",
-        "category": "Car",
-        "modelName":"Amaze",
-        "mileage": "25kmpl",
-        "approx.Cost": "6.63 lakhs",
-        "website":"https://www.cardekho.com/honda/amaze"
    },
+    
+    
    {
-       "id":21,
+       "id":19,
         "companyName": "toyota",
         "category": "Car",
         "modelName":"ss",
@@ -239,7 +416,7 @@
         "website":"https://www.cardekho.com/bmw/m5"
    }, 
    {
-       "id":22,
+       "id":20,
         "companyName": "MERCEDES-BENZ",
         "category": "car",
         "modelName":"GLA",
@@ -248,8 +425,7 @@
         "website":"https://www.carandbike.com/mercedes-benz-cars/gla-class"
    },
    {
-        
-        "id":23,
+        "id":21,
         "companyName": "Toyota",
         "category": "Car",
         "modelName":"2023 GR Supra",
@@ -258,7 +434,8 @@
         "website":"https://www.toyota.com/grsupra/"
     },
     {
-        "id":24,
+
+        "id":22,
         "companyName": "Volkswagen",
         "category": "Car",
         "modelName":"Taigun",
@@ -267,7 +444,7 @@
         "website":"https://www.volkswagen.co.in/en/models/taigun.html"
    },
    {
-        "id":25,
+        "id":23,
         "companyName": "Tata",
         "category": "Car",
         "modelName":"nano",
@@ -275,17 +452,8 @@
         "approx.Cost": "2,05 Lakh",
         "website":"https://www.carwale.com/tata-cars/nano/"
    },
-     {
-       "id":26,
-        "companyName": "Tata",
-        "category": "mid suv",
-        "modelName":"nexon",
-        "mileage": "12-16.39kmpl",
-        "approx.Cost": "10 Lakh",
-        "website":"https://www.carwale.com/tata-cars/nexon/"
-   },
    {
-        "id":27,
+        "id":24,
         "companyName": "Kia",
         "category": "Car",
         "modelName":"Seltos",
@@ -293,63 +461,8 @@
         "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
         "website":"https://www.cardekho.com/kia/seltos"
    },
-       {
-        "id":22,
-        "companyName": "KTM",
-        "category": "BIKE",
-        "modelName":"KTM-RC 200",
-        "mileage": "30-35 kmpl",
-        "approx.Cost": "Rs.2.04Lankh - 2.17 Lakh*",
-        "website":"https://www.bikedekho.com/ktm/rc-200"
-      },
-    {
-        "id":28,
-        "companyName": "Maruti 800",
-        "category": "Car",
-        "modelName":"Maruti 800",
-        "mileage": "20.8 kmpl",
-        "approx.Cost": "Rs.10.49 - 1.65 Lakh*",
-        "website":"https://www.cardekho.com/maruti/800"
-   },
-    {
-        "id":29,
-        "companyName": "Mercedes",
-        "category": "Car",
-        "modelName":"M7",
-        "mileage": "10.8 kmpl",
-        "approx.Cost": "Rs.10.49 - 48.65 Lakh*",
-        "website":"https://www.cardekho.com/mercedes"
-   },
-    {
-        "id":30,
-        "companyName": "Bajaj Discover",
-        "category": "Bike",
-        "modelName":"Seltos",
-        "mileage": "20.8 kmpl",
-        "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
-        "website":"https://www.bikewala.com/Discover"
-   },
-    
-    {
-        "id":31,
-        "companyName": "Maruti Suzuki",
-        "category": "Car",
-        "modelName":"Ertiga",
-        "mileage": "26.11 km/kg",
-        "approx.Cost": "Rs.8.41 - 12.79 Lakh*",
-        "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_Ertiga"
-   },
-     {
-        "id":32,
-        "companyName": "mahindra",
-        "category": "Car",
-        "modelName":"Thar",
-        "mileage": "15.2 kmpl",
-        "approx.Cost": "Rs.13.53 - 16.03 Lakh*",
-        "website":"https://www.carwale.com/mahindra-cars/thar/"
-   },
    {
-       "id":33,
+       "id":25,
         "companyName": "Aston Martin",
         "category": "Car",
         "modelName":"Valkyrie",
@@ -358,7 +471,7 @@
         "website":"https://www.autocarindia.com/car-news/aston-martin-unveils-limited-edition-valkyrie-spider-421736#:~:text=The%20British%20brand's%20most%20recent,crore%20(ex%2Dshowroom)."
    },
    {
-        "id":34,
+        "id":26,
         "companyName": "bmw",
         "category": "Car",
         "modelName":"A3",
@@ -367,219 +480,16 @@
         "website":"https://www.cardekho.com/bmw/m5"
    },
     {
-        "id":35,
+        "id":27,
         "companyName": "Tesla",
         "category": "Car",
-        "modelName":" phantom",
-        "mileage": "9.8 kmpl",
-        "approx.Cost": "Rs 8.99 - 10.45 crore",
-        "website":"https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom.html"
+        "modelName":"Tesla model X",
+        "mileage": "35.418 milespl",
+        "approx.Cost": "2.6CrRs",
+        "website":"https://www.tesla.com/modelx"
    },
-     {
-        "id":27,
-        "companyName": "FERRARI",
-        "category": "Car",
-        "modelName":" Portofino",
-        "mileage": "9.0 kmpl",
-        "approx.Cost": "Rs.3.50 Cr",
-        "website":"https://www.cardekho.com/ferrari/portofino"
-   },
-      {
-          "id":17,
-          "companyName": "Shelby",
-          "category": "Car",
-          "modelName":"GT500",
-          "mileage": "12-18 mpg",
-          "approx.Cost": "2 Cr",
-          "website":"https://www.ford.com/cars/mustang/models/shelby-gt-500/"
-     },
-  
-  
-     {
-          "id":18,
-          "companyName": "BMW",
-          "category": "Car",
-          "modelName":"M5",
-          "mileage": "9.12kmpl",
-          "approx.Cost": "1.74 CrRs",
-          "website":"https://www.cardekho.com/bmw/m5"
-     },
-      
-      
-     {
-         "id":19,
-          "companyName": "toyota",
-          "category": "Car",
-          "modelName":"ss",
-          "mileage": "9.12kmpl",
-          "approx.Cost": "1.1 CrRs",
-          "website":"https://www.cardekho.com/bmw/m5"
-     }, 
-     {
-         "id":20,
-          "companyName": "MERCEDES-BENZ",
-          "category": "car",
-          "modelName":"GLA",
-          "mileage": "13 TO 17 kmpl",
-          "approx.Cost": "48.90 LAKH",
-          "website":"https://www.carandbike.com/mercedes-benz-cars/gla-class"
-     },
-     {
-          "id":21,
-          "companyName": "Toyota",
-          "category": "Car",
-          "modelName":"2023 GR Supra",
-          "mileage": "11 kmpl",
-          "approx.Cost": "36 lakhs",
-          "website":"https://www.toyota.com/grsupra/"
-      },
-      {
-  
-          "id":22,
-          "companyName": "Volkswagen",
-          "category": "Car",
-          "modelName":"Taigun",
-          "mileage": "18 kmpl",
-          "approx.Cost": "20 lakhs",
-          "website":"https://www.volkswagen.co.in/en/models/taigun.html"
-     },
-     {
-          "id":23,
-          "companyName": "Tata",
-          "category": "Car",
-          "modelName":"nano",
-          "mileage": "25.39kmpl",
-          "approx.Cost": "2,05 Lakh",
-          "website":"https://www.carwale.com/tata-cars/nano/"
-     },
-     {
-          "id":24,
-          "companyName": "Kia",
-          "category": "Car",
-          "modelName":"Seltos",
-          "mileage": "20.8 kmpl",
-          "approx.Cost": "Rs.10.49 - 18.65 Lakh*",
-          "website":"https://www.cardekho.com/kia/seltos"
-     },
-     {
-         "id":25,
-          "companyName": "Aston Martin",
-          "category": "Car",
-          "modelName":"Valkyrie",
-          "mileage": "9-12kmpl",
-          "approx.Cost": "3.2 CrRs",
-          "website":"https://www.autocarindia.com/car-news/aston-martin-unveils-limited-edition-valkyrie-spider-421736#:~:text=The%20British%20brand's%20most%20recent,crore%20(ex%2Dshowroom)."
-     },
-     {
-          "id":26,
-          "companyName": "bmw",
-          "category": "Car",
-          "modelName":"A3",
-          "mileage": "9.18kmpl",
-          "approx.Cost": "2.6CrRs",
-          "website":"https://www.cardekho.com/bmw/m5"
-     },
-      {
-          "id":27,
-          "companyName": "Tesla",
-          "category": "Car",
-          "modelName":"Tesla model X",
-          "mileage": "35.418 milespl",
-          "approx.Cost": "2.6CrRs",
-          "website":"https://www.tesla.com/modelx"
-     },
-     {
-          "id":28,
-          "companyName": "Mahindra",
-          "category": "car",
-          "modelName":"XUV700 ",
-          "mileage": "27kmpl",
-          "approx.Cost": "13.45 lack onwards",
-          "website":"https://www.carwale.com/mahindra-cars/xuv700/"
-     },
-      {
-          "id":29,
-          "companyName": "BMW",
-          "category": "Bike",
-          "modelName":"G 310R",
-          "mileage": "32kmpl",
-          "approx.Cost": "2.85-2.99 lakh Rs",
-          "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
-      },
-     {
-  
-          "id":30,
-          "companyName": "Audi",
-          "category": "Car",
-          "modelName":"e-tron GT",
-          "mileage": "93.4kWh",
-          "approx.Cost": "1.68 CrRs",
-          "website":"https://www.cardekho.com/audi/e-tron-gt"
-     },
-     {
-         "id":31,
-          "companyName": "audi",
-          "category": "Car",
-          "modelName":"Mz",
-          "mileage": "10kmpl",
-          "approx.Cost": "2.34 CrRs",
-          "website":"https://www.cardekho.com/bmw/m5"
-     },
-  
-     {
-         "id":32,
-          "companyName": "Nano",
-          "category": "Car",
-          "modelName":"tata",
-          "mileage": "36.0 kmpl",
-          "approx.Cost": "3 lakhs",
-          "website":"https://www.cardekho.com/carmodels/Tata/Tata_Nano"
-     },
-    
-      {
-          "id":29,
-          "companyName": "Lamborghini",
-          "category": "car",
-          "modelName":"URUS ",
-          "mileage": "7.87kmpl",
-          "approx.Cost": "3.15 crores onwards",
-          "website":"https:https://www.lamborghini.com/en-en"
-      },
    {
-       "id":28,
-        "companyName": "TESLA",
-        "category": "Car",
-        "modelName":"C8"
-   },
-  {
-        "id":36,
-        "companyName": "TESLA",
-        "category": "Car",
-        "modelName":"x",
-        "mileage": "348 miles",
-        "approx.Cost": "14 lakhsRs",
-        "website":"https://droom.in/tesla-cars/model-x"
-   },
-    {
-       "id":29,
-        "companyName": "Corvette",
-        "category": "Car",
-        "modelName":"x",
-        "mileage": "27 miles per lit",
-        "approx.Cost": "50 lakhsRs",
-        "website":"https://www.carwale.com/news/midengine-chevrolet-corvette-c8-revealed-with-495-horsepower/"
-   },
-  {
-          "id":37,
-        "companyName": "VOLVO",
-        "category": "CAR",
-        "modelName":"xc90",
-        "mileage": "36kmpl",
-        "approx.Cost": "92-94 lakhs Rs",
-        "website":"https://www.cardekho.com/volvo/xc-90"
-    },
-    {
-        "id":38,
+        "id":28,
         "companyName": "Mahindra",
         "category": "car",
         "modelName":"XUV700 ",
@@ -588,7 +498,7 @@
         "website":"https://www.carwale.com/mahindra-cars/xuv700/"
    },
     {
-        "id":39,
+        "id":29,
         "companyName": "BMW",
         "category": "Bike",
         "modelName":"G 310R",
@@ -597,8 +507,8 @@
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
     },
    {
-  
-        "id":40,
+
+        "id":30,
         "companyName": "Audi",
         "category": "Car",
         "modelName":"e-tron GT",
@@ -606,85 +516,185 @@
         "approx.Cost": "1.68 CrRs",
         "website":"https://www.cardekho.com/audi/e-tron-gt"
    },
-      {
-          "id":33,
-          "companyName": "maruti suzuki",
-          "category": "car",
-          "modelName":"850",
-          "mileage": "13kmpl",
-          "approx.Cost": "2.85-2.99 lakh Rs",
-          "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
-      },
-       {
-          "id":33,
-          "companyName": "Hyundai ",
-          "category": "car",
-          "modelName":"Sk50",
-          "mileage": "17.7kmpl",
-          "approx.Cost": "9.43-15.52 lakh Rs",
-          "website":"https://www.carwale.com/hyundai-cars/verna/"
-  
-      },
-  
-      {
-         "id":34,
-          "companyName": "TATA",
-          "category": "Car",
-          "modelName":"Harrier",
-          "mileage": "9.12kmpl",
-          "approx.Cost": "1.74 CrRs",
-          "website":"https://www.cardekho.com/tata/harrier"
-  
-  
-     },
-     {
-         "id":35,
-          "companyName": "Mahindra",
-          "category": "Truck",
-          "modelName":"Scorpio-N",
-          "mileage": "10kmpl",
-          "approx.Cost": "11-13 lakhs",
-          "website":"https://www.carwale.com/mahindra-cars/scorpio/"
-     },
    {
-         "id":36,
-          "companyName": "Nano",
-          "category": "Car",
-          "modelName":"Twist XE",
-          "mileage": "25.39kmpl",
-          "approx.Cost": "2-2.5 lakhs",
-          "website":"https://www.carwale.com/tata-cars/nano/"
-     },
-  
-  {
-     "id":35,
-          "companyName": "Ford GT",
-          "category": "Car",
-          "modelName":"Ford GT40",
-          "mileage": "15kmpl",
-          "approx.Cost": "1.41 Cr Rs.",
-          "website":"https://www.ford.com/performance/gt/"
-      },
-  {
-      "id":30,
-        "companyName": "Corvette",
-        "category": "Car",
-        "modelName":"c8",
-        "mileage": "27 kmpl",
-        "approx.Cost": "50 lacks Rs.",
-        "website":"https://www.carwale.com/news/midengine-chevrolet-corvette-c8-revealed-with-495-horsepower/"
-   },
-  
-   {
-        "id":41,
-        "companyName": "MG Hector",
+       "id":31,
+        "companyName": "audi",
         "category": "Car",
         "modelName":"Mz",
         "mileage": "10kmpl",
         "approx.Cost": "2.34 CrRs",
         "website":"https://www.cardekho.com/bmw/m5"
    },
+
+   {
+       "id":32,
+        "companyName": "Nano",
+        "category": "Car",
+        "modelName":"tata",
+        "mileage": "36.0 kmpl",
+        "approx.Cost": "3 lakhs",
+        "website":"https://www.cardekho.com/carmodels/Tata/Tata_Nano"
+   },
   
+    {
+        "id":29,
+        "companyName": "Lamborghini",
+        "category": "car",
+        "modelName":"URUS ",
+        "mileage": "7.87kmpl",
+        "approx.Cost": "3.15 crores onwards",
+        "website":"https:https://www.lamborghini.com/en-en"
+    },
+ {
+     "id":28,
+      "companyName": "TESLA",
+      "category": "Car",
+      "modelName":"C8"
+ },
+{
+      "id":36,
+      "companyName": "TESLA",
+      "category": "Car",
+      "modelName":"x",
+      "mileage": "348 miles",
+      "approx.Cost": "14 lakhsRs",
+      "website":"https://droom.in/tesla-cars/model-x"
+ },
+  {
+     "id":29,
+      "companyName": "Corvette",
+      "category": "Car",
+      "modelName":"x",
+      "mileage": "27 miles per lit",
+      "approx.Cost": "50 lakhsRs",
+      "website":"https://www.carwale.com/news/midengine-chevrolet-corvette-c8-revealed-with-495-horsepower/"
+ },
+{
+        "id":37,
+      "companyName": "VOLVO",
+      "category": "CAR",
+      "modelName":"xc90",
+      "mileage": "36kmpl",
+      "approx.Cost": "92-94 lakhs Rs",
+      "website":"https://www.cardekho.com/volvo/xc-90"
+  },
+  {
+      "id":38,
+      "companyName": "Mahindra",
+      "category": "car",
+      "modelName":"XUV700 ",
+      "mileage": "27kmpl",
+      "approx.Cost": "13.45 lack onwards",
+      "website":"https://www.carwale.com/mahindra-cars/xuv700/"
+ },
+  {
+      "id":39,
+      "companyName": "BMW",
+      "category": "Bike",
+      "modelName":"G 310R",
+      "mileage": "32kmpl",
+      "approx.Cost": "2.85-2.99 lakh Rs",
+      "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+  },
+ {
+
+      "id":40,
+      "companyName": "Audi",
+      "category": "Car",
+      "modelName":"e-tron GT",
+      "mileage": "93.4kWh",
+      "approx.Cost": "1.68 CrRs",
+      "website":"https://www.cardekho.com/audi/e-tron-gt"
+ },
+    {
+        "id":33,
+        "companyName": "maruti suzuki",
+        "category": "car",
+        "modelName":"850",
+        "mileage": "13kmpl",
+        "approx.Cost": "2.85-2.99 lakh Rs",
+        "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
+    },
+     {
+        "id":33,
+        "companyName": "Hyundai ",
+        "category": "car",
+        "modelName":"Sk50",
+        "mileage": "17.7kmpl",
+        "approx.Cost": "9.43-15.52 lakh Rs",
+        "website":"https://www.carwale.com/hyundai-cars/verna/"
+
+    },
+
+    {
+       "id":34,
+        "companyName": "TATA",
+        "category": "Car",
+        "modelName":"Harrier",
+        "mileage": "9.12kmpl",
+        "approx.Cost": "1.74 CrRs",
+        "website":"https://www.cardekho.com/tata/harrier"
+
+
+   },
+   {
+       "id":35,
+        "companyName": "Mahindra",
+        "category": "Truck",
+        "modelName":"Scorpio-N",
+        "mileage": "10kmpl",
+        "approx.Cost": "11-13 lakhs",
+        "website":"https://www.carwale.com/mahindra-cars/scorpio/"
+   },
+ {
+       "id":36,
+        "companyName": "Nano",
+        "category": "Car",
+        "modelName":"Twist XE",
+        "mileage": "25.39kmpl",
+        "approx.Cost": "2-2.5 lakhs",
+        "website":"https://www.carwale.com/tata-cars/nano/"
+   },
+
+{
+   "id":35,
+        "companyName": "Ford GT",
+        "category": "Car",
+        "modelName":"Ford GT40",
+        "mileage": "15kmpl",
+        "approx.Cost": "1.41 Cr Rs.",
+        "website":"https://www.ford.com/performance/gt/"
+    },
+{
+    "id":30,
+      "companyName": "Corvette",
+      "category": "Car",
+      "modelName":"c8",
+      "mileage": "27 kmpl",
+      "approx.Cost": "50 lacks Rs.",
+      "website":"https://www.carwale.com/news/midengine-chevrolet-corvette-c8-revealed-with-495-horsepower/"
+ },
+
+ {
+      "id":41,
+      "companyName": "MG Hector",
+      "category": "Car",
+      "modelName":"Mz",
+      "mileage": "10kmpl",
+      "approx.Cost": "2.34 CrRs",
+      "website":"https://www.cardekho.com/bmw/m5"
+ },
+
+ {
+     "id":42,
+      "companyName": "Nano",
+      "category": "Car",
+      "modelName":"tata",
+      "mileage": "36.0 kmpl",
+      "approx.Cost": "3 lakhs",
+      "website":"https://www.cardekho.com/carmodels/Tata/Tata_Nano"
+ },
+
    {
        "id":42,
         "companyName": "Nano",
@@ -694,45 +704,7 @@
         "approx.Cost": "3 lakhs",
         "website":"https://www.cardekho.com/carmodels/Tata/Tata_Nano"
    },
-  
-     {
-         "id":42,
-          "companyName": "Nano",
-          "category": "Car",
-          "modelName":"tata",
-          "mileage": "36.0 kmpl",
-          "approx.Cost": "3 lakhs",
-          "website":"https://www.cardekho.com/carmodels/Tata/Tata_Nano"
-     },
-  
-      {
-          "id":43,
-          "companyName": "maruti suzuki",
-          "category": "car",
-          "modelName":"850",
-          "mileage": "13kmpl",
-          "approx.Cost": "2.85-2.99 lakh Rs",
-          "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
-      },
-      {
-         "id":44,
-          "companyName": "TATA",
-          "category": "Car",
-          "modelName":"Harrier",
-          "mileage": "9.12kmpl",
-          "approx.Cost": "1.74 CrRs",
-          "website":"https://www.cardekho.com/tata/harrier"
-   },
-     {
-          "id":45,
-          "companyName": "Mahindra",
-          "category": "Truck",
-          "modelName":"Scorpio-N",
-          "mileage": "10kmpl",
-          "approx.Cost": "11-13 lakhs",
-          "website":"https://www.carwale.com/mahindra-cars/scorpio/"
-     },
-  
+
     {
         "id":43,
         "companyName": "maruti suzuki",
@@ -750,10 +722,7 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "1.74 CrRs",
         "website":"https://www.cardekho.com/tata/harrier"
-   
-  
-   },
-  
+ },
    {
         "id":45,
         "companyName": "Mahindra",
@@ -763,53 +732,169 @@
         "approx.Cost": "11-13 lakhs",
         "website":"https://www.carwale.com/mahindra-cars/scorpio/"
    },
-  
-   {
-        "id":46,
-        "companyName": "Maruti Wagon R",
-        "category": "Car",
-        "modelName":"LXI",
-        "mileage": "24.35 km/l",
-        "approx.Cost": "5.47lakh",
-        "website":"https://www.googleadservices.com/pagead/"
-   },
-   {
-       "id":47,
-        "companyName": "TVS",
-        "category": "Bike",
-        "modelName":"Raider 125",
-        "mileage": "60kmpl",
-        "approx.Cost": "Around 1 lakh Rs",
-        "website":"https://www.bikewale.com/tvs-bikes/raider-125/"
+
+  {
+      "id":43,
+      "companyName": "maruti suzuki",
+      "category": "car",
+      "modelName":"850",
+      "mileage": "13kmpl",
+      "approx.Cost": "2.85-2.99 lakh Rs",
+      "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
   },
   {
-        "id":48,
-        "companyName": "bajaj",
-        "category": "Bike",
-        "modelName":"pulsar 220F",
-        "mileage": "38 kmpl",
-        "approx.Cost": "1.3 lakhs Rs",
-        "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
+     "id":44,
+      "companyName": "TATA",
+      "category": "Car",
+      "modelName":"Harrier",
+      "mileage": "9.12kmpl",
+      "approx.Cost": "1.74 CrRs",
+      "website":"https://www.cardekho.com/tata/harrier"
+ 
+
+ },
+
+ {
+      "id":45,
+      "companyName": "Mahindra",
+      "category": "Truck",
+      "modelName":"Scorpio-N",
+      "mileage": "10kmpl",
+      "approx.Cost": "11-13 lakhs",
+      "website":"https://www.carwale.com/mahindra-cars/scorpio/"
+ },
+
+ {
+      "id":46,
+      "companyName": "Maruti Wagon R",
+      "category": "Car",
+      "modelName":"LXI",
+      "mileage": "24.35 km/l",
+      "approx.Cost": "5.47lakh",
+      "website":"https://www.googleadservices.com/pagead/"
+ },
+ {
+     "id":47,
+      "companyName": "TVS",
+      "category": "Bike",
+      "modelName":"Raider 125",
+      "mileage": "60kmpl",
+      "approx.Cost": "Around 1 lakh Rs",
+      "website":"https://www.bikewale.com/tvs-bikes/raider-125/"
+},
+{
+      "id":48,
+      "companyName": "bajaj",
+      "category": "Bike",
+      "modelName":"pulsar 220F",
+      "mileage": "38 kmpl",
+      "approx.Cost": "1.3 lakhs Rs",
+      "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
+},
+
+{
+      "id":49,
+      "companyName": "pulsur",
+      "category": "mobile",
+      "modelName":"stdt 220F",
+      "mileage": "50 kmpl",
+      "approx.Cost": "1.9 lakhs Rs",
+      "website":"https://www.bikewale.com/pulsar-bikes/pulsar-220/"
+},
+{
+      "id":50,
+      "companyName": "Mahendra",
+      "category": "car",
+      "modelName":"thar",
+      "mileage": "15.2 kmpl",
+      "approx.Cost": "15 lakhs Rs",
+      "website":"https://www.cardekho.com/mahindra/thar/mileage"
+
+},
+  {
+     "id":51,
+      "companyName": "BMW m3 competition",
+      "category": "Car",
+      "modelName":"M3",
+      "mileage": "9.12kmpl",
+      "approx.Cost": "3.74 CrRs",
+      "website":"https://www.cardekho.com/bmw/m3"
+ },
+ 
+{
+     "id":40,
+      "companyName": "Fortuner LEGENDER",
+      "category": "Car",
+      "modelName":"LEGENDER",
+      "mileage": "11.15kmpl",
+      "approx.Cost": "45 LAKH Rs",
+      "website":"https://www.cardekho.com/Fortuner/LEGENDER"
+ }, 
+
+{
+     "id":52,
+      "companyName": "Jaguar Land Rover",
+      "category": "Car",
+      "modelName":"Range Rover Velar",
+      "mileage": "15.8 kmpl",
+      "approx.Cost": "89.41 Lakh Rs",
+      "website":"https://www.landrover.com/vehicles/range-rover-velar/index.html"
+
+ },
+  {
+      "id":53,
+      "companyName": "Mahindra",
+      "category": "SUV",
+      "modelName":"Scorpio N",
+      "mileage": "25kmpl",
+      "approx.Cost": "12.85-20.99 lakh Rs",
+      "website":"https://auto.mahindra.com/suv/scorpio-n"
   },
+  {
+     "id":54,
+      "companyName": "Apex Replicas",
+      "category": "Car",
+      "modelName":" 1:18 Ferrari 458 Italia GT3",
+      "mileage": "12kmpl",
+      "approx.Cost": "42 CrRs",
+      "website":"https://www.carmodel.com/trademark/apex-replicas?enc=1"
+ },
   
   {
-        "id":49,
-        "companyName": "pulsur",
-        "category": "mobile",
-        "modelName":"stdt 220F",
-        "mileage": "50 kmpl",
-        "approx.Cost": "1.9 lakhs Rs",
-        "website":"https://www.bikewale.com/pulsar-bikes/pulsar-220/"
+      "id":55,
+      "companyName": "Fortuner",
+      "category": "Car",
+      "modelName":"LEGENDER",
+      "mileage": "11.15kmpl",
+      "approx.Cost": "45 lakh Rs",
+      "website":"https://www.bikewale.com/Fortuner/LEGENDER/"
+  },
+ {
+      "id":56,
+      "companyName": "Bajaj",
+      "category": "Bike",
+      "modelName":"NS150",
+      "mileage": "35-40kmpl",
+      "approx.Cost": "1.2 lakh Rs",
+      "website":"https://www.bajajauto.com/bikes/pulsar/pulsar-ns125"
   },
   {
-        "id":50,
-        "companyName": "Mahendra",
-        "category": "car",
-        "modelName":"thar",
-        "mileage": "15.2 kmpl",
-        "approx.Cost": "15 lakhs Rs",
-        "website":"https://www.cardekho.com/mahindra/thar/mileage"
-  
+     "id":57,
+      "companyName": "OLA",
+      "category": "Scooter",
+      "modelName":"OLA S1",
+      "mileage": "180 km per charge",
+      "approx.Cost": "1 lakh",
+      "website":"https://olaelectric.com/s1"
+ },
+ {
+      "id" : 58,
+      "companyName" : "Royal Enfield Bullet",
+      "category" : "Motorcycle",
+      "modelName" : "Royal Enfield Bullet 350",
+      "milage" : " 40.8 Kmpl",
+      "approx .Cost" : "1.47 - 1.63 Lakh",
+      "website" : "https://www.google.com/search?q=royal+enfield+bullet+350&bih=609&biw=1280&rlz=1C1YTUH_enIN1014IN1014&hl=mr&sxsrf=ALiCzsatjCZpn8xVZmOufHCMuc1_y2_3SA%3A1664566273673&ei=AUQ3Y63YKLORmge9652gBQ&oq=royal+enfield+b&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCAAQywEyBQgAEMsBMgUIABDLATIICAAQyQMQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6CwgAEB4QsAMQDRAFOgsIABAeELADEAgQDToHCCMQsQIQJzoQCAAQsQMQgwEQsQMQgwEQDToECAAQDToHCAAQChDLAToHCC4QChDLAToGCAAQDRATOgYIABAeEA06CAgAEB4QDRATOgcIIxDqAhAnOgcILhDqAhAnOgQIIxAnOgsIABCABBCxAxCDAToFCAAQxAI6EQguEIAEELEDEIMBEMcBENEDOggIABCxAxCDAToFCAAQgAQ6BAgAEEM6BQguEMQCOhAILhCxAxCDARDHARDRAxBDOgQILhBDOgsILhCABBCxAxCDAToICC4QsQMQgwE6BQguEIAEOg4ILhCABBCxAxCDARDUAjoFCAAQsQM6CwguEMcBENEDEMsBOgUILhDLAUoECEEYAUoECEYYAFC0BFib1gFgiO8BaAVwAHgBgAGYAogBpTiSAQcwLjIxLjE0mAEAoAEBsAEKyAEFwAEB&sclient=gws-wiz"
   },
     {
        "id":51,
@@ -819,76 +904,94 @@
         "mileage": "9.12kmpl",
         "approx.Cost": "3.74 CrRs",
         "website":"https://www.cardekho.com/bmw/m3"
-   },
-   
+   } ,
   {
-       "id":40,
-        "companyName": "Fortuner LEGENDER",
-        "category": "Car",
-        "modelName":"LEGENDER",
-        "mileage": "11.15kmpl",
-        "approx.Cost": "45 LAKH Rs",
-        "website":"https://www.cardekho.com/Fortuner/LEGENDER"
-   }, 
-  
+      "id":59,
+      "companyName": "hyundai",
+      "category": "car",
+      "modelName":"i20",
+      "mileage": "25kmpl",
+      "approx.Cost": "7-11.99 lakh Rs",
+      "website":"https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20"
+  },
   {
-       "id":52,
-        "companyName": "Jaguar Land Rover",
-        "category": "Car",
-        "modelName":"Range Rover Velar",
-        "mileage": "15.8 kmpl",
-        "approx.Cost": "89.41 Lakh Rs",
-        "website":"https://www.landrover.com/vehicles/range-rover-velar/index.html"
-  
-   },
-    {
-        "id":53,
-        "companyName": "Mahindra",
-        "category": "SUV",
-        "modelName":"Scorpio N",
-        "mileage": "25kmpl",
-        "approx.Cost": "12.85-20.99 lakh Rs",
-        "website":"https://auto.mahindra.com/suv/scorpio-n"
-    },
-    {
-       "id":54,
-        "companyName": "Apex Replicas",
-        "category": "Car",
-        "modelName":" 1:18 Ferrari 458 Italia GT3",
-        "mileage": "12kmpl",
-        "approx.Cost": "42 CrRs",
-        "website":"https://www.carmodel.com/trademark/apex-replicas?enc=1"
-   },
-    
-    {
-        "id":55,
-        "companyName": "Fortuner",
-        "category": "Car",
-        "modelName":"LEGENDER",
-        "mileage": "11.15kmpl",
-        "approx.Cost": "45 lakh Rs",
-        "website":"https://www.bikewale.com/Fortuner/LEGENDER/"
-    },
+      "id":60,
+      "companyName": "Tata",
+      "category": "car",
+      "modelName":"i20",
+      "mileage": "16.35 kmpl",
+      "approx.Cost": "14.70-22.20 lakh Rs",
+      "website":"https://www.cardekho.com/tata/harrier"
+      },
    {
-        "id":56,
-        "companyName": "Bajaj",
+        "id":36,
+        "companyName": "bajaj",
         "category": "Bike",
-        "modelName":"NS150",
-        "mileage": "35-40kmpl",
-        "approx.Cost": "1.2 lakh Rs",
-        "website":"https://www.bajajauto.com/bikes/pulsar/pulsar-ns125"
-    },
-    {
-       "id":57,
-        "companyName": "OLA",
-        "category": "Scooter",
-        "modelName":"OLA S1",
-        "mileage": "180 km per charge",
-        "approx.Cost": "1 lakh",
-        "website":"https://olaelectric.com/s1"
+        "modelName":"pulsar 220F",
+        "mileage": "38 kmpl",
+        "approx.Cost": "1.3 lakhs Rs",
+        "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
    },
+{
+  "id": 37,
+    "companyName": "Ford",
+    "category": "Car",
+    "modelName": "Ford Aspire",
+    "mileage": "20.4 kmpl",
+    "approx.Cost": "7.28 lakhs",
+    "website": " https://www.inlandempirefordsales.com/?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb7PMnJYUGedQlDZMuegeCUT_0OBLPLbHNo2RwwnRuMIpU0nEpukOaBoCKlIQAvD_BwE"
+},
+
+    {
+        "id":42,
+        "companyName": "TATA",
+        "category": "Car",
+        "modelName":"Tata Blackbird",
+        "mileage": "17.4 kmpl",
+        "approx.Cost": "11 - 15 lakhs",
+        "website":"https://www.91wheels.com/cars/tata/blackbird"
+   },
+ {
+        "id":37,
+        "companyName": "Land Rover",
+        "category": "Range Rover",
+        "modelName":"RANGE ROVER AUTOBIOGRAPHY LWB 3.0 l Diesel",
+        "mileage": "8.7 kmpl",
+        "approx.Cost": " 3,29,83,630 Rs - 5,00,00,000 Rs",
+        "website":"https://www.landrover.in/vehicles/new-range-rover/index.html"
+    },
+
+{
+        "id":39,
+        "companyName": "ktm",
+        "category": "Bike",
+        "modelName":"pulsar ",
+        "mileage": "48 kmpl",
+        "approx.Cost": "2.4 lakhs Rs",
+        "website":"https://www.bikewale.com/bajaj-bi/pulsar/"
+  },
+
+{
+        "id":40,
+        "companyName": "Morris Garages",
+        "category": "SUV",
+        "modelName":"MG Hector",
+        "mileage": "15 kmpl",
+        "approx.Cost": "20.4 lakhs Rs",
+        "website":"https://www.mgmotor.co.in/vehicles/mghector/digital-kmi?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb_I6c7lUn3Ct4EO8Ub8jbrxzXQsUXh2K3g22UVruIKSOJvaCRcubohoCfsYQAvD_BwE&searchstring=dk01?ecid=Search:MG-Hector:adwords-IA-kmi:IA:Jan-22:Post-Price-Change&ef_id=CjwKCAjwp9qZBhBkEiwAsYFsb_I6c7lUn3Ct4EO8Ub8jbrxzXQsUXh2K3g22UVruIKSOJvaCRcubohoCfsYQAvD_BwE:G:s&s_kwcid=AL!8805!3!601124341338!p!!g!!mg%20hector"
+  },
+ {
+        "id":38,
+        "companyName": "BMW",
+        "category": "Car",
+        "modelName":"Belzo",
+        "mileage": "20 kmpl",
+        "approx.Cost": "1.3 lakhs Rs",
+        "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
+   },
+
    {
-        "id" : 58,
+        "id" : 56,
         "companyName" : "Royal Enfield Bullet",
         "category" : "Motorcycle",
         "modelName" : "Royal Enfield Bullet 350",
@@ -896,248 +999,152 @@
         "approx .Cost" : "1.47 - 1.63 Lakh",
         "website" : "https://www.google.com/search?q=royal+enfield+bullet+350&bih=609&biw=1280&rlz=1C1YTUH_enIN1014IN1014&hl=mr&sxsrf=ALiCzsatjCZpn8xVZmOufHCMuc1_y2_3SA%3A1664566273673&ei=AUQ3Y63YKLORmge9652gBQ&oq=royal+enfield+b&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCAAQywEyBQgAEMsBMgUIABDLATIICAAQyQMQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6CwgAEB4QsAMQDRAFOgsIABAeELADEAgQDToHCCMQsQIQJzoQCAAQsQMQgwEQsQMQgwEQDToECAAQDToHCAAQChDLAToHCC4QChDLAToGCAAQDRATOgYIABAeEA06CAgAEB4QDRATOgcIIxDqAhAnOgcILhDqAhAnOgQIIxAnOgsIABCABBCxAxCDAToFCAAQxAI6EQguEIAEELEDEIMBEMcBENEDOggIABCxAxCDAToFCAAQgAQ6BAgAEEM6BQguEMQCOhAILhCxAxCDARDHARDRAxBDOgQILhBDOgsILhCABBCxAxCDAToICC4QsQMQgwE6BQguEIAEOg4ILhCABBCxAxCDARDUAjoFCAAQsQM6CwguEMcBENEDEMsBOgUILhDLAUoECEEYAUoECEYYAFC0BFib1gFgiO8BaAVwAHgBgAGYAogBpTiSAQcwLjIxLjE0mAEAoAEBsAEKyAEFwAEB&sclient=gws-wiz"
     },
-      {
-         "id":51,
-          "companyName": "BMW m3 competition",
-          "category": "Car",
-          "modelName":"M3",
-          "mileage": "9.12kmpl",
-          "approx.Cost": "3.74 CrRs",
-          "website":"https://www.cardekho.com/bmw/m3"
-     } ,
-    {
-        "id":59,
-        "companyName": "hyundai",
-        "category": "car",
-        "modelName":"i20",
-        "mileage": "25kmpl",
-        "approx.Cost": "7-11.99 lakh Rs",
-        "website":"https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20"
-    },
-    {
-        "id":60,
-        "companyName": "Tata",
-        "category": "car",
-        "modelName":"i20",
-        "mileage": "16.35 kmpl",
-        "approx.Cost": "14.70-22.20 lakh Rs",
-        "website":"https://www.cardekho.com/tata/harrier"
-        },
-     {
-          "id":36,
-          "companyName": "bajaj",
-          "category": "Bike",
-          "modelName":"pulsar 220F",
-          "mileage": "38 kmpl",
-          "approx.Cost": "1.3 lakhs Rs",
-          "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
-     },
+
   {
-    "id": 37,
-      "companyName": "Ford",
+        "id":57,
+        "companyName": "BMW",
+        "category": "Bike",
+        "modelName":"s 100RR",
+        "mileage": "32kmpl",
+        "approx.Cost": "18-22 lakh Rs",
+        "website":"https://www.bikewale.com/bmw-bikes/s1000rr/"
+    },
+
+{   "id":60,
+      "companyName": "Mercedes-Benz",
       "category": "Car",
-      "modelName": "Ford Aspire",
-      "mileage": "20.4 kmpl",
-      "approx.Cost": "7.28 lakhs",
-      "website": " https://www.inlandempirefordsales.com/?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb7PMnJYUGedQlDZMuegeCUT_0OBLPLbHNo2RwwnRuMIpU0nEpukOaBoCKlIQAvD_BwE"
+      "modelName":"G 350d 4Matic",
+      "mileage": "9kmpl",
+      "approx.Cost": "1.31 Cr Rs.",
+      "website":"https://www.carwale.com/mercedes-benz-cars/g-class/"
+  },
+   {
+      "id":61,
+      "companyName": "Suzuki",
+      "category": "Car",
+      "modelName":"Wagon R",
+      "mileage": "25-30 kmpl",
+      "approx.Cost": "5-7 lakhs",
+      "website":"https://www.cardekho.com/maruti/wagon-r"
+  },
+  {
+      "id": 62,
+      "companyName": "Hyundai",
+      "category": "Car",
+      "modelName": "Creta",
+      "mileage": "17.5 kmpl",
+      "approx.Cost": "9.99-17.99 lakhs",
+      "website": "https://www.cardekho.com/hyundai/creta"
+  },
+  {
+      "id": 63,
+      "companyName": "Hyundai",
+      "category": "Car",
+      "modelName": "Verna",
+      "mileage": "16.9 kmpl",
+      "approx.Cost": "9.99-17.99 lakhs",
+      "website": "https://www.cardekho.com/hyundai/verna"
   },
   
-      {
-          "id":42,
-          "companyName": "TATA",
-          "category": "Car",
-          "modelName":"Tata Blackbird",
-          "mileage": "17.4 kmpl",
-          "approx.Cost": "11 - 15 lakhs",
-          "website":"https://www.91wheels.com/cars/tata/blackbird"
-     },
-   {
-          "id":37,
-          "companyName": "Land Rover",
-          "category": "Range Rover",
-          "modelName":"RANGE ROVER AUTOBIOGRAPHY LWB 3.0 l Diesel",
-          "mileage": "8.7 kmpl",
-          "approx.Cost": " 3,29,83,630 Rs - 5,00,00,000 Rs",
-          "website":"https://www.landrover.in/vehicles/new-range-rover/index.html"
-      },
+  {
+
+      "id": 64,
+
+      "companyName": "Hyundai",
+
+      "category": "Sedan",
+
+      "modelName": "Elantra",
+
+      "mileage": "14.62 kmpl",
+
+      "approx.Cost": "15-21.13 lakhs",
+
+      "website": "https://www.cardekho.com/carmodels/Hyundai/Hyundai_Elantra?amp=1"
+
+  },
   
   {
-          "id":39,
-          "companyName": "ktm",
-          "category": "Bike",
-          "modelName":"pulsar ",
-          "mileage": "48 kmpl",
-          "approx.Cost": "2.4 lakhs Rs",
-          "website":"https://www.bikewale.com/bajaj-bi/pulsar/"
-    },
-  
-  {
-          "id":40,
-          "companyName": "Morris Garages",
-          "category": "SUV",
-          "modelName":"MG Hector",
-          "mileage": "15 kmpl",
-          "approx.Cost": "20.4 lakhs Rs",
-          "website":"https://www.mgmotor.co.in/vehicles/mghector/digital-kmi?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb_I6c7lUn3Ct4EO8Ub8jbrxzXQsUXh2K3g22UVruIKSOJvaCRcubohoCfsYQAvD_BwE&searchstring=dk01?ecid=Search:MG-Hector:adwords-IA-kmi:IA:Jan-22:Post-Price-Change&ef_id=CjwKCAjwp9qZBhBkEiwAsYFsb_I6c7lUn3Ct4EO8Ub8jbrxzXQsUXh2K3g22UVruIKSOJvaCRcubohoCfsYQAvD_BwE:G:s&s_kwcid=AL!8805!3!601124341338!p!!g!!mg%20hector"
-    },
+      "id":64,
+      "companyName": "Mercedes-Benz",
+      "category": "Car",
+      "modelName":"E 350d Diesel AMG Line",
+      "mileage": "9kmpl",
+      "approx.Cost": "1 Cr Rs.",
+      "website":"https://www.autocarindia.com/cars/mercedes-benz/e-class/e-350d-diesel-amg-line"
+   },
    {
-          "id":38,
-          "companyName": "BMW",
-          "category": "Car",
-          "modelName":"Belzo",
-          "mileage": "20 kmpl",
-          "approx.Cost": "1.3 lakhs Rs",
-          "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
-     },
-  
-     {
-          "id" : 56,
-          "companyName" : "Royal Enfield Bullet",
-          "category" : "Motorcycle",
-          "modelName" : "Royal Enfield Bullet 350",
-          "milage" : " 40.8 Kmpl",
-          "approx .Cost" : "1.47 - 1.63 Lakh",
-          "website" : "https://www.google.com/search?q=royal+enfield+bullet+350&bih=609&biw=1280&rlz=1C1YTUH_enIN1014IN1014&hl=mr&sxsrf=ALiCzsatjCZpn8xVZmOufHCMuc1_y2_3SA%3A1664566273673&ei=AUQ3Y63YKLORmge9652gBQ&oq=royal+enfield+b&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCAAQywEyBQgAEMsBMgUIABDLATIICAAQyQMQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6CwgAEB4QsAMQDRAFOgsIABAeELADEAgQDToHCCMQsQIQJzoQCAAQsQMQgwEQsQMQgwEQDToECAAQDToHCAAQChDLAToHCC4QChDLAToGCAAQDRATOgYIABAeEA06CAgAEB4QDRATOgcIIxDqAhAnOgcILhDqAhAnOgQIIxAnOgsIABCABBCxAxCDAToFCAAQxAI6EQguEIAEELEDEIMBEMcBENEDOggIABCxAxCDAToFCAAQgAQ6BAgAEEM6BQguEMQCOhAILhCxAxCDARDHARDRAxBDOgQILhBDOgsILhCABBCxAxCDAToICC4QsQMQgwE6BQguEIAEOg4ILhCABBCxAxCDARDUAjoFCAAQsQM6CwguEMcBENEDEMsBOgUILhDLAUoECEEYAUoECEYYAFC0BFib1gFgiO8BaAVwAHgBgAGYAogBpTiSAQcwLjIxLjE0mAEAoAEBsAEKyAEFwAEB&sclient=gws-wiz"
-      },
-  
-    {
-          "id":57,
-          "companyName": "BMW",
-          "category": "Bike",
-          "modelName":"s 100RR",
-          "mileage": "32kmpl",
-          "approx.Cost": "18-22 lakh Rs",
-          "website":"https://www.bikewale.com/bmw-bikes/s1000rr/"
-      },
-  
-  {   "id":60,
-        "companyName": "Mercedes-Benz",
-        "category": "Car",
-        "modelName":"G 350d 4Matic",
-        "mileage": "9kmpl",
-        "approx.Cost": "1.31 Cr Rs.",
-        "website":"https://www.carwale.com/mercedes-benz-cars/g-class/"
-    },
-     {
-        "id":61,
-        "companyName": "Suzuki",
-        "category": "Car",
-        "modelName":"Wagon R",
-        "mileage": "25-30 kmpl",
-        "approx.Cost": "5-7 lakhs",
-        "website":"https://www.cardekho.com/maruti/wagon-r"
-    },
-    {
-        "id": 62,
-        "companyName": "Hyundai",
-        "category": "Car",
-        "modelName": "Creta",
-        "mileage": "17.5 kmpl",
-        "approx.Cost": "9.99-17.99 lakhs",
-        "website": "https://www.cardekho.com/hyundai/creta"
-    },
-    {
-        "id": 63,
-        "companyName": "Hyundai",
-        "category": "Car",
-        "modelName": "Verna",
-        "mileage": "16.9 kmpl",
-        "approx.Cost": "9.99-17.99 lakhs",
-        "website": "https://www.cardekho.com/hyundai/verna"
-    },
-    
-    {
-
-        "id": 64,
-
-        "companyName": "Hyundai",
-
-        "category": "Sedan",
-
-        "modelName": "Elantra",
-
-        "mileage": "14.62 kmpl",
-
-        "approx.Cost": "15-21.13 lakhs",
-
-        "website": "https://www.cardekho.com/carmodels/Hyundai/Hyundai_Elantra?amp=1"
-
-    },
-    
-    {
-        "id":64,
-        "companyName": "Mercedes-Benz",
-        "category": "Car",
-        "modelName":"E 350d Diesel AMG Line",
-        "mileage": "9kmpl",
-        "approx.Cost": "1 Cr Rs.",
-        "website":"https://www.autocarindia.com/cars/mercedes-benz/e-class/e-350d-diesel-amg-line"
-     },
-     {
-        "id": 64,
-        "companyName": "Hero",
-        "category": "Bike",
-        "modelName": "Glamour XTEC",
-        "mileage": "60-65 kmpl",
-        "approx.Cost": "1.05 lakhs",
-        "website": "https://www.bikewale.com/hero-bikes/glamour-xtec/"
-    }, 
-    {
-        "id":64,
-        "companyName": "Hyundai",
-        "category": "Car",
-        "modelName":"i20",
-        "mileage": "22kmpl",
-        "approx.Cost": "7.07-11.62 lakh Rs",
-        "website":"https://www.hyundai.com/in/en/find-a-car/i20/specification"
-    },
-    {
-        "id":363,
-        "companyName": "OLA",
-        "category": "Bike",
-        "modelName":"Ola S1",
-        "mileage": "181 Km/Charge",
-        "approx.Cost": " 99,999 and goes upto Rs. 1.39 Lakh",
-        "website":"https://olaelectric.com/"
-    }
+      "id": 64,
+      "companyName": "Hero",
+      "category": "Bike",
+      "modelName": "Glamour XTEC",
+      "mileage": "60-65 kmpl",
+      "approx.Cost": "1.05 lakhs",
+      "website": "https://www.bikewale.com/hero-bikes/glamour-xtec/"
+  }, 
+  {
+      "id":64,
+      "companyName": "Hyundai",
+      "category": "Car",
+      "modelName":"i20",
+      "mileage": "22kmpl",
+      "approx.Cost": "7.07-11.62 lakh Rs",
+      "website":"https://www.hyundai.com/in/en/find-a-car/i20/specification"
+  },
+  {
+      "id":363,
+      "companyName": "OLA",
+      "category": "Bike",
+      "modelName":"Ola S1",
+      "mileage": "181 Km/Charge",
+      "approx.Cost": " 99,999 and goes upto Rs. 1.39 Lakh",
+      "website":"https://olaelectric.com/"
+  },
 
 
 {
-        "id": 64,
-        "companyName": "Toyota",
-        "category": "Car",
-        "modelName": "Fortuner",
-        "mileage": "10 kmpl",
-        "approx.Cost": "32.39-49.57 lakhs",
-        "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
-    },
-    {
-        "id": 64,
-        "companyName": "Zoom",
-        "category": "vr",
-        "modelName": "Fortuner",
-        "mileage": "500 kmpl",
-        "approx.Cost": "32.39-49.57 lakhs",
-        "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
-    }
-    {
-        "id":65,
-        "companyName": "Koenigsegg",
-        "category": "Sports Car",
-        "modelName":"Jesko",
-        "engineDisplacement": "5000cc",
-        "approx.Cost": "66.06 Cr - 72.25 Cr",
-        "website":"https://www.bigboytoyz.com/newcars/koenigsegg/jesko"
-    }
-]
-
+      "id": 64,
+      "companyName": "Toyota",
+      "category": "Car",
+      "modelName": "Fortuner",
+      "mileage": "10 kmpl",
+      "approx.Cost": "32.39-49.57 lakhs",
+      "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
+  },
+{
+      "id":3,
+      "companyName": "Jagur",
+      "category": "Car",
+      "modelName":"Porsche F-TYPE",
+      "mileage": "9-11kmpl",
+      "approx.Cost": "1 crore",
+      "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
+  },
+  {
+      "id": 64,
+      "companyName": "Zoom",
+      "category": "vr",
+      "modelName": "Fortuner",
+      "mileage": "500 kmpl",
+      "approx.Cost": "32.39-49.57 lakhs",
+      "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
+  },
+  {
+      "id":65,
+      "companyName": "Koenigsegg",
+      "category": "Sports Car",
+      "modelName":"Jesko",
+      "engineDisplacement": "5000cc",
+      "approx.Cost": "66.06 Cr - 72.25 Cr",
+      "website":"https://www.bigboytoyz.com/newcars/koenigsegg/jesko"
 },
 {
-        "id": 640,
-        "companyName": "Mercedes-Benz",
-        "category": "Car",
-        "modelName": "Mercedes-Benz EQS",
-        "mileage": "526 km/full charge.",
-        "approx.Cost": "Rs.1.55 Cr-Rs. 2.45 Cr.",
-        "website": "https://www.cardekho.com/mercedes-benz/eqs"
-    }
+      "id": 640,
+      "companyName": "Mercedes-Benz",
+      "category": "Car",
+      "modelName": "Mercedes-Benz EQS",
+      "mileage": "526 km/full charge.",
+      "approx.Cost": "Rs.1.55 Cr-Rs. 2.45 Cr.",
+      "website": "https://www.cardekho.com/mercedes-benz/eqs"
+  }
+]
