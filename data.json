@@ -1139,6 +1139,24 @@
       "website":"https://www.bigboytoyz.com/newcars/koenigsegg/jesko"
 },
 {
+        "id": 640,
+        "companyName": "Mercedes-Benz",
+        "category": "Car",
+        "modelName": "Mercedes-Benz EQS",
+        "mileage": "526 km/full charge.",
+        "approx.Cost": "Rs.1.55 Cr-Rs. 2.45 Cr.",
+        "website": "https://www.cardekho.com/mercedes-benz/eqs"
+    },
+{
+        "id": 641,
+        "companyName": "Toyota",
+        "category": "Fortuner",
+        "modelName": "Fortuner 4X2",
+        "mileage": "14.22 KM/L",
+        "approx.Cost": "Rs 32.59 - 50.34 Lakh",
+        "website": "https://www.carandbike.com/toyota-cars/fortuner"
+    },
+    {
       "id": 640,
       "companyName": "Mercedes-Benz",
       "category": "Car",
