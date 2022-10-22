@@ -1110,6 +1110,15 @@
         "mileage": "10 kmpl",
         "approx.Cost": "32.39-49.57 lakhs",
         "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
+    },
+    {
+        "id": 64,
+        "companyName": "Zoom",
+        "category": "vr",
+        "modelName": "Fortuner",
+        "mileage": "500 kmpl",
+        "approx.Cost": "32.39-49.57 lakhs",
+        "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
     }
     {
         "id":65,
