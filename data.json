@@ -1165,4 +1165,14 @@
       "approx.Cost": "Rs.1.55 Cr-Rs. 2.45 Cr.",
       "website": "https://www.cardekho.com/mercedes-benz/eqs"
   }
+  ,
+    {
+      "id": 641,
+      "companyName": "Ford ",
+      "category": "Car",
+      "modelName": "Mustang gt500 shelby",
+      "mileage": "12 city 18 highway 7.1 gals/100 miles",
+      "approx.Cost": "$76,820-$82,447 ",
+      "website": "https://www.ford.com/cars/mustang/models/shelby-gt500/"
+  }
 ]
