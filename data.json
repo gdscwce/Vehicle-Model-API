@@ -85,7 +85,7 @@
       "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_800"
   },
     {
-        "id":13,
+        "id":10,
         "companyName": "Audi",
         "category": "Sports Car",
         "modelName":"R8 (Type 42)",
@@ -94,7 +94,7 @@
         "website":"https://www.audi.in/in/web/en/customer-area/service-warranty/audi-campaign/campaign-r8.html"
     },
   {
-      "id":10,
+      "id":11,
       "companyName": "Suzuki",
       "category": "Car",
       "modelName":"Wagon R",
@@ -104,7 +104,7 @@
   },
      
   {
-      "id":11,
+      "id":12,
       "companyName": "Volvo",
       "category": "Car",
       "modelName":"XC40"         ,
@@ -113,7 +113,7 @@
       "website":"https://www.cardekho.com/volvo/xc40"
   },
     {
-      "id":12,
+      "id":13,
       "companyName": "Mahindra",
       "category": " SUV Car",
       "modelName":"AX 4-STR"         ,
@@ -123,7 +123,7 @@
 
   },
   {
-      "id":13,
+      "id":14,
       "companyName": "Mahindra",
       "category": "car",
       "modelName":"XUV700 ",
@@ -132,7 +132,7 @@
       "website":"https://www.carwale.com/mahindra-cars/xuv700/"
   },
       {
-      "id":14,
+      "id":15,
       "companyName": "Audi",
       "category": "Sports Car",
       "modelName":"R8 (Type 42)",
@@ -141,7 +141,7 @@
       "website":"https://www.audi.in/in/web/en/customer-area/service-warranty/audi-campaign/campaign-r8.html"
   },
   {
-      "id":13,
+      "id":16,
       "companyName": "Mahindra",
       "category": "car",
       "modelName":"XUV700 ",
@@ -151,7 +151,7 @@
   },
   
   {
-      "id":15,
+      "id":17,
       "companyName": "BYD",
       "category": "e-car",
       "modelName":"e6",
@@ -161,7 +161,7 @@
   },
     
     {
-        "id":15,
+        "id":18,
         "companyName": "maruti",
         "category": "car",
         "modelName":"800",
@@ -173,7 +173,7 @@
 
 
     {
-        "id":16,
+        "id":19,
         "companyName": "maruti suzuki",
         "category": "Car",
         "modelName":"creta",
@@ -183,7 +183,7 @@
     },
   
   {
-      "id":16,
+      "id":20,
       "companyName": "maruti",
       "category": "car",
       "modelName":"800",
@@ -194,7 +194,7 @@
   
 
   {
-      "id":17,
+      "id":21,
       "companyName": "maruti suzuki",
       "category": "Car",
       "modelName":"creta",
@@ -203,7 +203,7 @@
       "website":"https://www.cardekho.com/hyundai/creta"
   },
   {
-      "id":18,
+      "id":22,
       "companyName": "Shelby",
       "category": "Car",
       "modelName":"GT500",
@@ -212,7 +212,7 @@
       "website":"https://www.ford.com/cars/mustang/models/shelby-gt-500/"
  },
  {
-      "id":19,
+      "id":23,
       "companyName": "BMW",
       "category": "Car",
       "modelName":"M5",
@@ -221,7 +221,7 @@
       "website":"https://www.cardekho.com/bmw/m5"
  },  
   {
-     "id":20,
+     "id":24,
       "companyName": "Honda",
       "category": "Car",
       "modelName":"Amaze",
@@ -230,7 +230,7 @@
       "website":"https://www.cardekho.com/honda/amaze"
  },
  {
-     "id":21,
+     "id":25,
       "companyName": "toyota",
       "category": "Car",
       "modelName":"ss",
@@ -239,7 +239,7 @@
       "website":"https://www.cardekho.com/bmw/m5"
  }, 
  {
-     "id":22,
+     "id":26,
       "companyName": "MERCEDES-BENZ",
       "category": "car",
       "modelName":"GLA",
@@ -249,7 +249,7 @@
  },
  {
       
-      "id":23,
+      "id":27,
       "companyName": "Toyota",
       "category": "Car",
       "modelName":"2023 GR Supra",
@@ -258,7 +258,7 @@
       "website":"https://www.toyota.com/grsupra/"
   },
   {
-      "id":24,
+      "id":28,
       "companyName": "Volkswagen",
       "category": "Car",
       "modelName":"Taigun",
@@ -267,7 +267,7 @@
       "website":"https://www.volkswagen.co.in/en/models/taigun.html"
  },
  {
-      "id":25,
+      "id":29,
       "companyName": "Tata",
       "category": "Car",
       "modelName":"nano",
@@ -276,7 +276,7 @@
       "website":"https://www.carwale.com/tata-cars/nano/"
  },
    {
-     "id":26,
+     "id":30,
       "companyName": "Tata",
       "category": "mid suv",
       "modelName":"nexon",
@@ -285,7 +285,7 @@
       "website":"https://www.carwale.com/tata-cars/nexon/"
  },
  {
-      "id":27,
+      "id":31,
       "companyName": "Kia",
       "category": "Car",
       "modelName":"Seltos",
@@ -294,7 +294,7 @@
       "website":"https://www.cardekho.com/kia/seltos"
  },
      {
-      "id":22,
+      "id":32,
       "companyName": "KTM",
       "category": "BIKE",
       "modelName":"KTM-RC 200",
@@ -303,7 +303,7 @@
       "website":"https://www.bikedekho.com/ktm/rc-200"
     },
   {
-      "id":28,
+      "id":33,
       "companyName": "Maruti 800",
       "category": "Car",
       "modelName":"Maruti 800",
@@ -312,7 +312,7 @@
       "website":"https://www.cardekho.com/maruti/800"
  },
   {
-      "id":29,
+      "id":34,
       "companyName": "Mercedes",
       "category": "Car",
       "modelName":"M7",
@@ -321,7 +321,7 @@
       "website":"https://www.cardekho.com/mercedes"
  },
   {
-      "id":30,
+      "id":35,
       "companyName": "Bajaj Discover",
       "category": "Bike",
       "modelName":"Seltos",
@@ -331,7 +331,7 @@
  },
   
   {
-      "id":31,
+      "id":36,
       "companyName": "Maruti Suzuki",
       "category": "Car",
       "modelName":"Ertiga",
@@ -340,7 +340,7 @@
       "website":"https://www.cardekho.com/carmodels/Maruti/Maruti_Ertiga"
  },
    {
-      "id":32,
+      "id":37,
       "companyName": "mahindra",
       "category": "Car",
       "modelName":"Thar",
@@ -349,7 +349,7 @@
       "website":"https://www.carwale.com/mahindra-cars/thar/"
  },
  {
-     "id":33,
+     "id":38,
       "companyName": "Aston Martin",
       "category": "Car",
       "modelName":"Valkyrie",
@@ -358,7 +358,7 @@
       "website":"https://www.autocarindia.com/car-news/aston-martin-unveils-limited-edition-valkyrie-spider-421736#:~:text=The%20British%20brand's%20most%20recent,crore%20(ex%2Dshowroom)."
  },
  {
-      "id":34,
+      "id":39,
       "companyName": "bmw",
       "category": "Car",
       "modelName":"A3",
@@ -367,7 +367,7 @@
       "website":"https://www.cardekho.com/bmw/m5"
  },
   {
-      "id":35,
+      "id":40,
       "companyName": "Tesla",
       "category": "Car",
       "modelName":" phantom",
@@ -376,7 +376,7 @@
       "website":"https://www.rolls-roycemotorcars.com/en_GB/showroom/phantom.html"
  },
    {
-      "id":27,
+      "id":41,
       "companyName": "FERRARI",
       "category": "Car",
       "modelName":" Portofino",
@@ -385,7 +385,7 @@
       "website":"https://www.cardekho.com/ferrari/portofino"
  },
     {
-        "id":17,
+        "id":42,
         "companyName": "Shelby",
         "category": "Car",
         "modelName":"GT500",
@@ -396,7 +396,7 @@
 
 
    {
-        "id":18,
+        "id":43,
         "companyName": "BMW",
         "category": "Car",
         "modelName":"M5",
@@ -407,7 +407,7 @@
     
     
    {
-       "id":19,
+       "id":44,
         "companyName": "toyota",
         "category": "Car",
         "modelName":"ss",
@@ -416,7 +416,7 @@
         "website":"https://www.cardekho.com/bmw/m5"
    }, 
    {
-       "id":20,
+       "id":45,
         "companyName": "MERCEDES-BENZ",
         "category": "car",
         "modelName":"GLA",
@@ -425,7 +425,7 @@
         "website":"https://www.carandbike.com/mercedes-benz-cars/gla-class"
    },
    {
-        "id":21,
+        "id":46,
         "companyName": "Toyota",
         "category": "Car",
         "modelName":"2023 GR Supra",
@@ -435,7 +435,7 @@
     },
     {
 
-        "id":22,
+        "id":47,
         "companyName": "Volkswagen",
         "category": "Car",
         "modelName":"Taigun",
@@ -444,7 +444,7 @@
         "website":"https://www.volkswagen.co.in/en/models/taigun.html"
    },
    {
-        "id":23,
+        "id":48,
         "companyName": "Tata",
         "category": "Car",
         "modelName":"nano",
@@ -453,7 +453,7 @@
         "website":"https://www.carwale.com/tata-cars/nano/"
    },
    {
-        "id":24,
+        "id":49,
         "companyName": "Kia",
         "category": "Car",
         "modelName":"Seltos",
@@ -462,7 +462,7 @@
         "website":"https://www.cardekho.com/kia/seltos"
    },
    {
-       "id":25,
+       "id":50,
         "companyName": "Aston Martin",
         "category": "Car",
         "modelName":"Valkyrie",
@@ -471,7 +471,7 @@
         "website":"https://www.autocarindia.com/car-news/aston-martin-unveils-limited-edition-valkyrie-spider-421736#:~:text=The%20British%20brand's%20most%20recent,crore%20(ex%2Dshowroom)."
    },
    {
-        "id":26,
+        "id":51,
         "companyName": "bmw",
         "category": "Car",
         "modelName":"A3",
@@ -480,7 +480,7 @@
         "website":"https://www.cardekho.com/bmw/m5"
    },
     {
-        "id":27,
+        "id":52,
         "companyName": "Tesla",
         "category": "Car",
         "modelName":"Tesla model X",
@@ -489,7 +489,7 @@
         "website":"https://www.tesla.com/modelx"
    },
    {
-        "id":28,
+        "id":53,
         "companyName": "Mahindra",
         "category": "car",
         "modelName":"XUV700 ",
@@ -498,7 +498,7 @@
         "website":"https://www.carwale.com/mahindra-cars/xuv700/"
    },
     {
-        "id":29,
+        "id":54,
         "companyName": "BMW",
         "category": "Bike",
         "modelName":"G 310R",
@@ -508,7 +508,7 @@
     },
    {
 
-        "id":30,
+        "id":55,
         "companyName": "Audi",
         "category": "Car",
         "modelName":"e-tron GT",
@@ -517,7 +517,7 @@
         "website":"https://www.cardekho.com/audi/e-tron-gt"
    },
    {
-       "id":31,
+       "id":56,
         "companyName": "audi",
         "category": "Car",
         "modelName":"Mz",
@@ -527,7 +527,7 @@
    },
 
    {
-       "id":32,
+       "id":57,
         "companyName": "Nano",
         "category": "Car",
         "modelName":"tata",
@@ -537,7 +537,7 @@
    },
   
     {
-        "id":29,
+        "id":58,
         "companyName": "Lamborghini",
         "category": "car",
         "modelName":"URUS ",
@@ -546,13 +546,13 @@
         "website":"https:https://www.lamborghini.com/en-en"
     },
  {
-     "id":28,
+     "id":59,
       "companyName": "TESLA",
       "category": "Car",
       "modelName":"C8"
  },
 {
-      "id":36,
+      "id":60,
       "companyName": "TESLA",
       "category": "Car",
       "modelName":"x",
@@ -561,7 +561,7 @@
       "website":"https://droom.in/tesla-cars/model-x"
  },
   {
-     "id":29,
+     "id":61,
       "companyName": "Corvette",
       "category": "Car",
       "modelName":"x",
@@ -570,7 +570,7 @@
       "website":"https://www.carwale.com/news/midengine-chevrolet-corvette-c8-revealed-with-495-horsepower/"
  },
 {
-        "id":37,
+        "id":62,
       "companyName": "VOLVO",
       "category": "CAR",
       "modelName":"xc90",
@@ -579,7 +579,7 @@
       "website":"https://www.cardekho.com/volvo/xc-90"
   },
   {
-      "id":38,
+      "id":63,
       "companyName": "Mahindra",
       "category": "car",
       "modelName":"XUV700 ",
@@ -588,7 +588,7 @@
       "website":"https://www.carwale.com/mahindra-cars/xuv700/"
  },
   {
-      "id":39,
+      "id":64,
       "companyName": "BMW",
       "category": "Bike",
       "modelName":"G 310R",
@@ -598,7 +598,7 @@
   },
  {
 
-      "id":40,
+      "id":65,
       "companyName": "Audi",
       "category": "Car",
       "modelName":"e-tron GT",
@@ -607,7 +607,7 @@
       "website":"https://www.cardekho.com/audi/e-tron-gt"
  },
     {
-        "id":33,
+        "id":66,
         "companyName": "maruti suzuki",
         "category": "car",
         "modelName":"850",
@@ -616,7 +616,7 @@
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
     },
      {
-        "id":33,
+        "id":67,
         "companyName": "Hyundai ",
         "category": "car",
         "modelName":"Sk50",
@@ -627,7 +627,7 @@
     },
 
     {
-       "id":34,
+       "id":68,
         "companyName": "TATA",
         "category": "Car",
         "modelName":"Harrier",
@@ -638,7 +638,7 @@
 
    },
    {
-       "id":35,
+       "id":69,
         "companyName": "Mahindra",
         "category": "Truck",
         "modelName":"Scorpio-N",
@@ -647,7 +647,7 @@
         "website":"https://www.carwale.com/mahindra-cars/scorpio/"
    },
  {
-       "id":36,
+       "id":70,
         "companyName": "Nano",
         "category": "Car",
         "modelName":"Twist XE",
@@ -657,7 +657,7 @@
    },
 
 {
-   "id":35,
+   "id":71,
         "companyName": "Ford GT",
         "category": "Car",
         "modelName":"Ford GT40",
@@ -666,7 +666,7 @@
         "website":"https://www.ford.com/performance/gt/"
     },
 {
-    "id":30,
+    "id":72,
       "companyName": "Corvette",
       "category": "Car",
       "modelName":"c8",
@@ -676,7 +676,7 @@
  },
 
  {
-      "id":41,
+      "id":73,
       "companyName": "MG Hector",
       "category": "Car",
       "modelName":"Mz",
@@ -686,7 +686,7 @@
  },
 
  {
-     "id":42,
+     "id":74,
       "companyName": "Nano",
       "category": "Car",
       "modelName":"tata",
@@ -696,7 +696,7 @@
  },
 
    {
-       "id":42,
+       "id":75,
         "companyName": "Nano",
         "category": "Car",
         "modelName":"tata",
@@ -706,7 +706,7 @@
    },
 
     {
-        "id":43,
+        "id":76,
         "companyName": "maruti suzuki",
         "category": "car",
         "modelName":"850",
@@ -715,7 +715,7 @@
         "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
     },
     {
-       "id":44,
+       "id":77,
         "companyName": "TATA",
         "category": "Car",
         "modelName":"Harrier",
@@ -724,7 +724,7 @@
         "website":"https://www.cardekho.com/tata/harrier"
  },
    {
-        "id":45,
+        "id":78,
         "companyName": "Mahindra",
         "category": "Truck",
         "modelName":"Scorpio-N",
@@ -734,7 +734,7 @@
    },
 
   {
-      "id":43,
+      "id":79,
       "companyName": "maruti suzuki",
       "category": "car",
       "modelName":"850",
@@ -743,7 +743,7 @@
       "website":"https://www.bikewale.com/bmw-bikes/g-310-r/"
   },
   {
-     "id":44,
+     "id":80,
       "companyName": "TATA",
       "category": "Car",
       "modelName":"Harrier",
@@ -755,7 +755,7 @@
  },
 
  {
-      "id":45,
+      "id":81,
       "companyName": "Mahindra",
       "category": "Truck",
       "modelName":"Scorpio-N",
@@ -765,7 +765,7 @@
  },
 
  {
-      "id":46,
+      "id":82,
       "companyName": "Maruti Wagon R",
       "category": "Car",
       "modelName":"LXI",
@@ -774,7 +774,7 @@
       "website":"https://www.googleadservices.com/pagead/"
  },
  {
-     "id":47,
+     "id":83,
       "companyName": "TVS",
       "category": "Bike",
       "modelName":"Raider 125",
@@ -783,7 +783,7 @@
       "website":"https://www.bikewale.com/tvs-bikes/raider-125/"
 },
 {
-      "id":48,
+      "id":84,
       "companyName": "bajaj",
       "category": "Bike",
       "modelName":"pulsar 220F",
@@ -793,7 +793,7 @@
 },
 
 {
-      "id":49,
+      "id":85,
       "companyName": "pulsur",
       "category": "mobile",
       "modelName":"stdt 220F",
@@ -802,7 +802,7 @@
       "website":"https://www.bikewale.com/pulsar-bikes/pulsar-220/"
 },
 {
-      "id":50,
+      "id":86,
       "companyName": "Mahendra",
       "category": "car",
       "modelName":"thar",
@@ -812,7 +812,7 @@
 
 },
   {
-     "id":51,
+     "id":87,
       "companyName": "BMW m3 competition",
       "category": "Car",
       "modelName":"M3",
@@ -822,7 +822,7 @@
  },
  
 {
-     "id":40,
+     "id":88,
       "companyName": "Fortuner LEGENDER",
       "category": "Car",
       "modelName":"LEGENDER",
@@ -832,7 +832,7 @@
  }, 
 
 {
-     "id":52,
+     "id":89,
       "companyName": "Jaguar Land Rover",
       "category": "Car",
       "modelName":"Range Rover Velar",
@@ -842,7 +842,7 @@
 
  },
   {
-      "id":53,
+      "id":90,
       "companyName": "Mahindra",
       "category": "SUV",
       "modelName":"Scorpio N",
@@ -851,7 +851,7 @@
       "website":"https://auto.mahindra.com/suv/scorpio-n"
   },
   {
-     "id":54,
+     "id":91,
       "companyName": "Apex Replicas",
       "category": "Car",
       "modelName":" 1:18 Ferrari 458 Italia GT3",
@@ -861,7 +861,7 @@
  },
   
   {
-      "id":55,
+      "id":92,
       "companyName": "Fortuner",
       "category": "Car",
       "modelName":"LEGENDER",
@@ -870,7 +870,7 @@
       "website":"https://www.bikewale.com/Fortuner/LEGENDER/"
   },
  {
-      "id":56,
+      "id":93,
       "companyName": "Bajaj",
       "category": "Bike",
       "modelName":"NS150",
@@ -879,7 +879,7 @@
       "website":"https://www.bajajauto.com/bikes/pulsar/pulsar-ns125"
   },
   {
-     "id":57,
+     "id":94,
       "companyName": "OLA",
       "category": "Scooter",
       "modelName":"OLA S1",
@@ -888,7 +888,7 @@
       "website":"https://olaelectric.com/s1"
  },
  {
-      "id" : 58,
+      "id" : 95,
       "companyName" : "Royal Enfield Bullet",
       "category" : "Motorcycle",
       "modelName" : "Royal Enfield Bullet 350",
@@ -897,7 +897,7 @@
       "website" : "https://www.google.com/search?q=royal+enfield+bullet+350&bih=609&biw=1280&rlz=1C1YTUH_enIN1014IN1014&hl=mr&sxsrf=ALiCzsatjCZpn8xVZmOufHCMuc1_y2_3SA%3A1664566273673&ei=AUQ3Y63YKLORmge9652gBQ&oq=royal+enfield+b&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCAAQywEyBQgAEMsBMgUIABDLATIICAAQyQMQywEyBQgAEMsBMgUIABDLATIFCAAQywEyBQgAEMsBMgUIABDLATIFCAAQywE6CwgAEB4QsAMQDRAFOgsIABAeELADEAgQDToHCCMQsQIQJzoQCAAQsQMQgwEQsQMQgwEQDToECAAQDToHCAAQChDLAToHCC4QChDLAToGCAAQDRATOgYIABAeEA06CAgAEB4QDRATOgcIIxDqAhAnOgcILhDqAhAnOgQIIxAnOgsIABCABBCxAxCDAToFCAAQxAI6EQguEIAEELEDEIMBEMcBENEDOggIABCxAxCDAToFCAAQgAQ6BAgAEEM6BQguEMQCOhAILhCxAxCDARDHARDRAxBDOgQILhBDOgsILhCABBCxAxCDAToICC4QsQMQgwE6BQguEIAEOg4ILhCABBCxAxCDARDUAjoFCAAQsQM6CwguEMcBENEDEMsBOgUILhDLAUoECEEYAUoECEYYAFC0BFib1gFgiO8BaAVwAHgBgAGYAogBpTiSAQcwLjIxLjE0mAEAoAEBsAEKyAEFwAEB&sclient=gws-wiz"
   },
     {
-       "id":51,
+       "id":96,
         "companyName": "BMW m3 competition",
         "category": "Car",
         "modelName":"M3",
@@ -906,7 +906,7 @@
         "website":"https://www.cardekho.com/bmw/m3"
    } ,
   {
-      "id":59,
+      "id":97,
       "companyName": "hyundai",
       "category": "car",
       "modelName":"i20",
@@ -915,7 +915,7 @@
       "website":"https://www.cardekho.com/carmodels/Hyundai/Hyundai_i20"
   },
   {
-      "id":60,
+      "id":98,
       "companyName": "Tata",
       "category": "car",
       "modelName":"i20",
@@ -924,7 +924,7 @@
       "website":"https://www.cardekho.com/tata/harrier"
       },
    {
-        "id":36,
+        "id":99,
         "companyName": "bajaj",
         "category": "Bike",
         "modelName":"pulsar 220F",
@@ -933,7 +933,7 @@
         "website":"https://www.bikewale.com/bajaj-bikes/pulsar-220/"
    },
 {
-  "id": 37,
+  "id": 100,
     "companyName": "Ford",
     "category": "Car",
     "modelName": "Ford Aspire",
@@ -943,7 +943,7 @@
 },
 
     {
-        "id":42,
+        "id":101,
         "companyName": "TATA",
         "category": "Car",
         "modelName":"Tata Blackbird",
@@ -952,7 +952,7 @@
         "website":"https://www.91wheels.com/cars/tata/blackbird"
    },
  {
-        "id":37,
+        "id":102,
         "companyName": "Land Rover",
         "category": "Range Rover",
         "modelName":"RANGE ROVER AUTOBIOGRAPHY LWB 3.0 l Diesel",
@@ -962,7 +962,7 @@
     },
 
 {
-        "id":39,
+        "id":103,
         "companyName": "ktm",
         "category": "Bike",
         "modelName":"pulsar ",
@@ -972,7 +972,7 @@
   },
 
 {
-        "id":40,
+        "id":104,
         "companyName": "Morris Garages",
         "category": "SUV",
         "modelName":"MG Hector",
@@ -981,7 +981,7 @@
         "website":"https://www.mgmotor.co.in/vehicles/mghector/digital-kmi?gclid=CjwKCAjwp9qZBhBkEiwAsYFsb_I6c7lUn3Ct4EO8Ub8jbrxzXQsUXh2K3g22UVruIKSOJvaCRcubohoCfsYQAvD_BwE&searchstring=dk01?ecid=Search:MG-Hector:adwords-IA-kmi:IA:Jan-22:Post-Price-Change&ef_id=CjwKCAjwp9qZBhBkEiwAsYFsb_I6c7lUn3Ct4EO8Ub8jbrxzXQsUXh2K3g22UVruIKSOJvaCRcubohoCfsYQAvD_BwE:G:s&s_kwcid=AL!8805!3!601124341338!p!!g!!mg%20hector"
   },
  {
-        "id":38,
+        "id":105,
         "companyName": "BMW",
         "category": "Car",
         "modelName":"Belzo",
@@ -991,7 +991,7 @@
    },
 
    {
-        "id" : 56,
+        "id" : 106,
         "companyName" : "Royal Enfield Bullet",
         "category" : "Motorcycle",
         "modelName" : "Royal Enfield Bullet 350",
@@ -1001,7 +1001,7 @@
     },
 
   {
-        "id":57,
+        "id":107,
         "companyName": "BMW",
         "category": "Bike",
         "modelName":"s 100RR",
@@ -1010,7 +1010,7 @@
         "website":"https://www.bikewale.com/bmw-bikes/s1000rr/"
     },
 
-{   "id":60,
+{   "id":108,
       "companyName": "Mercedes-Benz",
       "category": "Car",
       "modelName":"G 350d 4Matic",
@@ -1019,7 +1019,7 @@
       "website":"https://www.carwale.com/mercedes-benz-cars/g-class/"
   },
    {
-      "id":61,
+      "id":109,
       "companyName": "Suzuki",
       "category": "Car",
       "modelName":"Wagon R",
@@ -1028,7 +1028,7 @@
       "website":"https://www.cardekho.com/maruti/wagon-r"
   },
   {
-      "id": 62,
+      "id": 110,
       "companyName": "Hyundai",
       "category": "Car",
       "modelName": "Creta",
@@ -1037,7 +1037,7 @@
       "website": "https://www.cardekho.com/hyundai/creta"
   },
   {
-      "id": 63,
+      "id": 111,
       "companyName": "Hyundai",
       "category": "Car",
       "modelName": "Verna",
@@ -1048,7 +1048,7 @@
   
   {
 
-      "id": 64,
+      "id": 112,
 
       "companyName": "Hyundai",
 
@@ -1065,7 +1065,7 @@
   },
   
   {
-      "id":64,
+      "id":113,
       "companyName": "Mercedes-Benz",
       "category": "Car",
       "modelName":"E 350d Diesel AMG Line",
@@ -1074,7 +1074,7 @@
       "website":"https://www.autocarindia.com/cars/mercedes-benz/e-class/e-350d-diesel-amg-line"
    },
    {
-      "id": 64,
+      "id": 114,
       "companyName": "Hero",
       "category": "Bike",
       "modelName": "Glamour XTEC",
@@ -1083,7 +1083,7 @@
       "website": "https://www.bikewale.com/hero-bikes/glamour-xtec/"
   }, 
   {
-      "id":64,
+      "id":115,
       "companyName": "Hyundai",
       "category": "Car",
       "modelName":"i20",
@@ -1092,7 +1092,7 @@
       "website":"https://www.hyundai.com/in/en/find-a-car/i20/specification"
   },
   {
-      "id":363,
+      "id":116,
       "companyName": "OLA",
       "category": "Bike",
       "modelName":"Ola S1",
@@ -1103,7 +1103,7 @@
 
 
 {
-      "id": 64,
+      "id": 117,
       "companyName": "Toyota",
       "category": "Car",
       "modelName": "Fortuner",
@@ -1112,7 +1112,7 @@
       "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
   },
 {
-      "id":3,
+      "id":118,
       "companyName": "Jagur",
       "category": "Car",
       "modelName":"Porsche F-TYPE",
@@ -1121,7 +1121,7 @@
       "website":"https://www.jaguar.in/jaguar-range/f-type/index.html"
   },
   {
-      "id": 64,
+      "id": 119,
       "companyName": "Zoom",
       "category": "vr",
       "modelName": "Fortuner",
@@ -1130,7 +1130,7 @@
       "website": "https://www.toyotabharat.com/showroom/fortuner/index-fortuner.html"
   },
   {
-      "id":65,
+      "id":120,
       "companyName": "Koenigsegg",
       "category": "Sports Car",
       "modelName":"Jesko",
@@ -1139,7 +1139,7 @@
       "website":"https://www.bigboytoyz.com/newcars/koenigsegg/jesko"
 },
 {
-        "id": 640,
+        "id":121,
         "companyName": "Mercedes-Benz",
         "category": "Car",
         "modelName": "Mercedes-Benz EQS",
@@ -1148,7 +1148,7 @@
         "website": "https://www.cardekho.com/mercedes-benz/eqs"
     },
 {
-        "id": 641,
+        "id":122,
         "companyName": "Toyota",
         "category": "Fortuner",
         "modelName": "Fortuner 4X2",
@@ -1157,7 +1157,7 @@
         "website": "https://www.carandbike.com/toyota-cars/fortuner"
     },
     {
-      "id": 640,
+      "id":123,
       "companyName": "Mercedes-Benz",
       "category": "Car",
       "modelName": "Mercedes-Benz EQS",
@@ -1167,7 +1167,7 @@
   }
   ,
     {
-      "id": 641,
+      "id":124,
       "companyName": "Ford ",
       "category": "Car",
       "modelName": "Mustang gt500 shelby",
