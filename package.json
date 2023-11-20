@@ -1,0 +1,23 @@
+{
+  "name": "vehicle-model-api",
+  "version": "1.0.0",
+  "description": "If you are obsessed with vehicles, please add the description of that vehicle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nxrmxt/Vehicle-Model-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nxrmxt/Vehicle-Model-API/issues"
+  },
+  "homepage": "https://github.com/nxrmxt/Vehicle-Model-API#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
